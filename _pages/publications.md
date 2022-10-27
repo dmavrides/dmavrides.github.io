@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research and Projects"
+permalink: /research_projects/
 author_profile: true
 ---
+## Publications
+(add two publications)
+You can find my publications on <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=edgEOswAAAAJ">my Google Scholar profile</a>.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Other Academic Projects
+(add multiplicative weights, jp, ppst; summary papers for js/511/597f)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Personal Projects
+(add chess-tree aggregation program, music lyrics wordcloud generator)
