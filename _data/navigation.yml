@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research/Projects"
-    url: /research_projects/    
+  - title: "Portfolio"
+    url: /portfolio/    
 
   - title: "Recommendations"
     url: /recs/    
@@ -13,4 +13,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Dylan_Mavrides_CV_for_personal_site.pdf
