@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink:
 title: ""
 excerpt: ""
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 redirect_from: 
   - /recs/
   - /recs.html
