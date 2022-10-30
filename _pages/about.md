@@ -12,9 +12,9 @@ I'm currently working as a quant trader and researcher in New York. I graduated 
 
 Here are some things contained on this website:
 (these mostly currently under construction)
-* Information about my academic/professional life
-* Information about my personal life
-* A collection of recommendations of various kinds
-* A collection of blog posts and shorter-form thoughts
+* Information about my <a href="https://dmavrides.github.io/portfolio/">academic/professional life</a>
+* Information about my <a href="https://dmavrides.github.io/personal/">personal life</a>
+* A collection of <a href="https://dmavrides.github.io/recs/">recommendations</a> of various kinds
+* A collection of <a href="https://dmavrides.github.io/year-archive/">blog posts</a> and <a href="https://dmavrides.github.io/thoughts/">shorter-form thoughts</a>
 
 You can reach me at dylan dot mavrides at gmail.
