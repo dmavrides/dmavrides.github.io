@@ -41,6 +41,7 @@ Meeting of the Minds, ping pong club, girlfriend
 became a math person junior year calculus/physics
 theory of knowledge senior year
 more social life - movies w friends
+streaming twitch, learning to type, chess tournaments/camp/trinity
 princeton early then scholarships
 streetlight manifesto
 
