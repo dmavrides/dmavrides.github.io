@@ -31,8 +31,8 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * I find many other card/board games fun - Codenames, Set, <a href="https://www.mathcamp.org/2015/proset/">Pro(jective) Set</a>, Splendor, ...
 
 **Other**
-* typing - ~120wpm querty, <a href="https://recordsetter.com/world-record/type-the-english-alphabet-using-hand/48182"> typing the alphabet in order with one hand</a>
-* Rubik's Cube - sub 30s
+* typing - ~120wpm querty, <a href="https://recordsetter.com/world-record/type-the-english-alphabet-using-hand/48182"> typing the alphabet in order with one hand</a> (<a href="https://finger-frenzy.netlify.app/">try it</a>!)
+* Rubik's Cube - sub 30s using fridrich f2l 2-look oll/pll
 * <a href="https://youtu.be/zHdacfxNtJo?t=30">Penspinning</a>
 * <a href="https://arithmetic.zetamac.com/game?key=a7220a92">zetamac</a> - 54
 * crosswords - I do NYT crosswords sometimes
