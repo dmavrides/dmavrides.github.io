@@ -25,7 +25,7 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * Overwatch - GM/t500 peak
 * Storybook Brawl - Mythic/4600 peak
 * Poker - Won university/internship poker tournaments etc., have some rough ranges, but I'm no pro.
-* Tetris - 40L in 80s on <a href="https://jstris.jezevec10.com/">jstris</a>, used to ST-stack in fb tetris battle
+* Tetris - 40L in 80s on <a href="https://jstris.jezevec10.com/">jstris</a>, could briefly ST-stack in tetris battle
 * dominion - $$\mu=.5$$ on <a href="https://dominion.games/">dominion.games</a>
 * Banangrams/Anagrams (mongoose) - I'm pretty solid at these games
 * I find many other card/board games fun - Codenames, Set, <a href="https://www.mathcamp.org/2015/proset/">Pro(jective) Set</a>, Splendor, ...
