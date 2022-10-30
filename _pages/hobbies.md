@@ -13,6 +13,7 @@ redirect_from:
   type="text/javascript">
 </script>
 Here is a list of some of my hobbies and skills, along with my rough skill level/experience.
+
 **Sports**
 * Bouldering - V4 climber. Started January 2022 but broke my ankle in March. Back into it!
 * Weight lifting - Largely replaced by bouldering, but I can still bench my body weight and try to do PPL when feeling motivated enough. I log all my sessions, and have gone to the gym 419 between 8/2019 and 10/2022.
