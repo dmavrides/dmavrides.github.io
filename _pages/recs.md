@@ -3,26 +3,51 @@ layout: archive
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile:
+toc: true
+toc_label: "Table of Contents"
 redirect_from: 
   - /recs/
   - /recs.html
 ---
 Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc.
 <!--- make them expandable as sections and as entries? make analog a footnote -->
+<!--- some templating:
+* <a href="link">rec</a> - <a href="link">(example)</a> description
+* <details>
+<summary>Preview</summary>
 
-**Books**
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
 
-MLPFIO
+-->
 
-**Blogs**
+Testing a few things:
+* <a href="link">rec</a> - <a href="link">(example)</a> description
+* <details>
+<summary>Preview</summary>
+
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
+
+* Example <details><summary>(expand details)</summary> Example description </details> - 8/10
+
+## Books etc.
+* The Name of the Wind by Patrick Rothfuss
+* Unsong
+* HPMOR
+* MLPFIO
+
+## Blogs/Posts
 * slatestarcodex/astralcodexten
 * unexpected values
 * the sideways view
 
-**Video Games**
+## Video Games
 
-**Non-Video (Analog?) Games**
+## Non-Video [^1] Games
 * bananagrams/mongoose
 
 * 7 Wonders
@@ -37,7 +62,7 @@ MLPFIO
 * 24
 * Spot-it
 
-**TV Shows**
+## TV Shows
 I often watch TV shows (or listen to them using Netflix audio descriptions) while doing other things.
 
 * Nathan For You
@@ -98,7 +123,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Mythbusters
 * Taskmaster
 
-**YouTube Channels**
+## YouTube Channels
 * Vsauce
 * Thunk
 * Magnus Midtbo
@@ -133,7 +158,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Veritasium
 * 
 
-**Movies**
+## Movies
 * Parasite
 * The Intouochables
 * Memento
@@ -159,24 +184,24 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Predestination
 * Shutter Island
 
-**Music**
+## Music
 * I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR, but have a lot of variety in what I listen to.
 * <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">This</a> playlist for some selected variety in my listening through 2019.
 * <a href="https://open.spotify.com/playlist/01d7gwRG1W0yyVNc5xTdFT">This</a> playlist for some chronologically-added songs since 2019.
 
-**Apps**
+## Apps
 * Obsidian + syncing apps
 * Night Owl
 * ZocDoc
 * GP IO
 
-**Restaurants**
+## Restaurants
 <!-- link the locations or websites -->
 * Thai Farm Kitchen in Brooklyn, NY
 * Millburn Standard in Short Hills, NJ
 * Roka Akor in Chicago, IL
 
-**Habits**
+## Habits
 
 Write things down - 
 * Write down thoughts you have that you think are worth saving
@@ -188,7 +213,7 @@ Write things down -
 * Try things regularly (i.e. pull-ups in doorways)
 * Getting 2 of (some) things (laundry hamper, charger, for example)
 
-**Misc.**
+## Misc.
 * Shockz headphones
 * Adjustable dumbbells
 * A doorway pull-up bar
@@ -198,3 +223,4 @@ Write things down -
 * Tungsten cube
 * lesswrong
 
+[^1]: Analog?
