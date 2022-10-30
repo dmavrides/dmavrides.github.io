@@ -9,28 +9,30 @@ redirect_from:
   - /recs/
   - /recs.html
 ---
-Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc.
+Please send me recommendations of your own!
+
+Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc. Label which things are mathy. Some of this is redundant from other pages on this website.
 
 ## Books etc.
-* The Name of the Wind by Patrick Rothfuss
-* Unsong
-* HPMOR
-* MLPFIO
+* The Name of the Wind by Patrick Rothfuss - If you enjoy fantasy, I'd give it a read
+* <a href = "https://unsongbook.com/">Unsong</a> by Scott Alexander - A quirky sci-fi novel with a soft-spot for wordplay. 
+* <a href="http://www.hpmor.com/chapter/1">HPMOR</a> - Some people don't care for it, some people think it's the best thing they've ever read. If you identified the most with Hermione in Harry Potter, and can tolerate occasional cringe, give it a try.
+* <a href="https://www.fromaitozombies.eu/Rationality_From_AI_to_Zombies.pdf">Rationality: From AI to Zombies</a> - It has its flaws, but this is the most comprehensive guide to critical thinking that I've encountered
 
 ## Blogs/Posts
-* Slatestarcodex (Scott Alexander) - <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Meditations on Moloch</a>, <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage</a>
-* Astralcodexten (Scott Alexander) - <a href="https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future">Book Review: What we owe the Future</a>
+* Scott Alexander's writings - Slatestarcodex: <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Meditations on Moloch</a>, <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage</a>; Astralcodexten:- <a href="https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future">Book Review: What we owe the Future</a>;  and other writings: <a href="https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes">Schelling fences on slippery slopes</a>, <a href="https://www.lesswrong.com/posts/gFMH3Cqw4XxwL69iy/eight-short-studies-on-excuses">Eight Short Studies On Excuses</a>
 * Unexpected Values (Eric Neyman) - <a href="https://ericneyman.wordpress.com/2021/01/15/pseudorandomness-contest-results-and-analysis/#fn1">Pseudorandomness contest and results</a>, <a href="https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/">Finding Shawn Mendes</a>, <a href="https://ericneyman.wordpress.com/2019/12/26/beyond-the-mean-median-and-mode/">Beyond the mean, median, and mode</a>, <a href="https://ericneyman.wordpress.com/2019/09/17/least-squares-regression-isnt-arbitrary/">Least squares regression isn't arbitrary</a>
 * The sideways view (Paul Christiano) - <a href="https://sideways-view.com/2017/02/19/the-monkey-and-the-machine-a-dual-process-theory/">The monkey and the machine</a>, <a href="https://sideways-view.com/2016/11/26/if-you-cant-lie-to-others-you-must-lie-to-yourself/">If we can't lie to others, we will lie to ourselves</a>
 * Terry Tao's blog - <a href="https://terrytao.wordpress.com/about/anonymity-and-the-internet/">Anonymity and the internet</a>
+* Nate Soares' writings - <a href="https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF">Replacing Guilt</a>
+* Nick Bostrom's writings - <a href="https://nickbostrom.com/fable/dragon">The Fable of the Dragon-Tyrant</a>
 
 ## Video Games
-* BeatSaber 
-* celeste
-
-* Storybook Brawl is a decent game
+* Baba Is You - Puzzle Game
+* BeatSaber - Guitar Hero but in VR
+* Celeste - Cute platformer with good music, calming & optimistic vibes.
+* Storybook Brawl - Auto battler that I personally enjoy
 * Lichess.org over Chess.com
-
 
 ## Non-Video Games
 
@@ -111,7 +113,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Mythbusters
 * Taskmaster
 
-## YouTube Channels
+## YouTube Channels/Videos
 * Vsauce
 * Thunk
 * Magnus Midtbo
@@ -144,7 +146,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Agadmator
 * Chess Explained
 * Veritasium
-* 
+* Nick Bostrom - <a href="https://www.youtube.com/watch?v=MnT1xgZgkpk&ab_channel=TED">What happens when our computers get smarter than we are?</a> If you haven't been given a spiel about the importance of AI safety, this isn't a bad place to start; it was the first exposure I had to any of the arguments, back in 2015. <a href="https://www.youtube.com/watch?v=P0Nf3TcMiHo&ab_channel=TEDxTalks">The end of humanity</a> Similar to the previous video, but for existential risk/transhumanist ideas. <a href="https://www.youtube.com/watch?v=MlftshhkO4k&ab_channel=Science%2CTechnology%26theFuture">Simulation Argument</a> Presents his relatively convincing argument that we live in a simulation.
 
 ## Movies
 * Parasite
@@ -171,6 +173,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Hamilton
 * Predestination
 * Shutter Island
+* Free Solo
 
 ## Music
 * I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR, but have a lot of variety in what I listen to.
@@ -181,16 +184,15 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Obsidian + syncing apps
 * Night Owl
 * ZocDoc
-* GP IO
 
 ## Restaurants
 <!-- link the locations or websites -->
 * Thai Farm Kitchen in Brooklyn, NY
+* Buddha Bodai in Chinatown
 * Millburn Standard in Short Hills, NJ
 * Roka Akor in Chicago, IL
 
 ## Habits
-
 Write things down - 
 * Write down thoughts you have that you think are worth saving
 * Moment Journaling so you remember your life
@@ -210,5 +212,4 @@ Write things down -
 * fitbit
 * Tungsten cube
 * lesswrong
-
-[^1]: Analog?
+* Escape Rooms
