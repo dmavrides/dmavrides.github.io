@@ -20,7 +20,7 @@ settings, concluding that small cost asymmetries and other changes result in Nas
 only a small number of agents choose to invest.
 
 <a href="https://dmavrides.github.io/files/Algorithms_final_project.pdf"> Making Fantasy Football Predictions Using Multiplicative Weights </a> (2017) final project for graduate algorithms class, with <a href="https://sites.google.com/view/ericneyman/">Eric Neyman</a> and Rachel Andrew Wonnacott.
-<!--
+<!---
 ## Personal Projects
 (add chess-tree aggregation program, music lyrics wordcloud generator)
 -->
