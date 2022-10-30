@@ -31,6 +31,13 @@ Testing a few things:
 {% highlight ruby %}
 puts 'Expanded message'
 {% endhighlight %}
+  
+<details>
+<summary>Preview</summary>
+
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
 
 * Example <details><summary>(expand details)</summary> Example description </details> - 8/10
 
