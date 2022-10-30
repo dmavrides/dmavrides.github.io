@@ -17,4 +17,5 @@ Here are some things contained on this website:
 * A collection of <a href="https://dmavrides.github.io/recs/">recommendations</a> of various kinds
 * A collection of <a href="https://dmavrides.github.io/year-archive/">blog posts</a> and <a href="https://dmavrides.github.io/thoughts/">shorter-form thoughts</a>
 
-You can reach me at dylan dot mavrides at gmail.
+You can reach me at dylan dot mavrides at gmail
+You can leave me anonymous feedback of any kind <a href="https://www.admonymous.co/dmavrides">here</a>
