@@ -1,9 +1,8 @@
 ---
 layout: archive
-permalink: /
+permalink:
 title: ""
 excerpt: ""
-author_profile:
 toc: true
 toc_label: "Table of Contents"
 redirect_from: 
@@ -19,19 +18,29 @@ Maybe I'll try to have a more formal ranking system, make the page cleaner, link
 * MLPFIO
 
 ## Blogs/Posts
-* Slatestarcodex - meditations on moloch, toxoplasma of rage
-* Astralcodexten - Book Review: What we owe the Future
-* unexpected values
-* the sideways view
+* Slatestarcodex (Scott Alexander) - <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Meditations on Moloch</a>, <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage</a>
+* Astralcodexten (Scott Alexander) - <a href="https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future">Book Review: What we owe the Future</a>
+* Unexpected Values (Eric Neyman) - <a href="https://ericneyman.wordpress.com/2021/01/15/pseudorandomness-contest-results-and-analysis/#fn1">Pseudorandomness contest and results</a>, <a href="https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/">Finding Shawn Mendes</a>, <a href="https://ericneyman.wordpress.com/2019/12/26/beyond-the-mean-median-and-mode/">Beyond the mean, median, and mode</a>, <a href="https://ericneyman.wordpress.com/2019/09/17/least-squares-regression-isnt-arbitrary/">Least squares regression isn't arbitrary</a>
+* The sideways view (Paul Christiano) - <a href="https://sideways-view.com/2017/02/19/the-monkey-and-the-machine-a-dual-process-theory/">The monkey and the machine</a>, <a href="https://sideways-view.com/2016/11/26/if-you-cant-lie-to-others-you-must-lie-to-yourself/">If we can't lie to others, we will lie to ourselves</a>
+* Terry Tao's blog - <a href="https://terrytao.wordpress.com/about/anonymity-and-the-internet/">Anonymity and the internet</a>
 
 ## Video Games
+* BeatSaber 
+* celeste
 
-## Non-Video [^1] Games
+* Storybook Brawl is a decent game
+* Lichess.org over Chess.com
+
+
+## Non-Video Games
+
+* person do thing
 * bananagrams/mongoose
 
 * 7 Wonders
 * Splendor
 * Azul
+* Dominion
 
 * Magic Maze
 * Hanabi
