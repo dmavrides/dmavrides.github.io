@@ -37,3 +37,4 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * <a href="https://arithmetic.zetamac.com/game?key=a7220a92">zetamac</a> - 54
 * crosswords - I do NYT crosswords sometimes
 * <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&ab_channel=CrackingTheCryptic">cryptic sudokus</a> - If you like puzzly things, I highly recommend. You can click a link in the description of videos on this channel to solve them yourself.
+* Piano/Violin - I played both of these for years but very little since moving to NYC.
