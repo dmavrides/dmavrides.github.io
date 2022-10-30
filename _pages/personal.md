@@ -3,7 +3,7 @@ layout: archive
 permalink:
 title: ""
 excerpt: ""
-author_profile: true
+author_profile:
 redirect_from: 
   - /personal/
   - /personal.html
