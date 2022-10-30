@@ -20,7 +20,7 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * Jogging - Started in 2021. This is painful and I'm bad at it, but I keep trying. Could jog 5k in <30mins, and once jogged a loop around Central Park.
 
 **Games**
-* Chess - Currently ~2100 lichess on all time controls. Started playing freshman year of high school, tied 3rd-place in 11th grade k-12 nationals; won various local tournaments.
+* Chess - ~2100 lichess on all time controls. Started playing freshman year of high school, tied 3rd-place in 11th grade k-12 nationals; won various local tournaments.
 * BeatSaber - S most Expert/many Expert+ songs
 * Overwatch - GM/t500 peak
 * Storybook Brawl - Mythic/4600 peak
