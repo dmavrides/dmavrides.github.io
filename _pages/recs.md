@@ -11,35 +11,6 @@ redirect_from:
   - /recs.html
 ---
 Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc.
-<!--- make them expandable as sections and as entries? make analog a footnote -->
-<!--- some templating:
-* <a href="link">rec</a> - <a href="link">(example)</a> description
-* <details>
-<summary>Preview</summary>
-
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-
--->
-
-Testing a few things:
-* <a href="link">rec</a> - <a href="link">(example)</a> description
-* <details>
-<summary>Preview</summary>
-
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-  
-<details>
-<summary>Preview</summary>
-
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-
-* Example <details><summary>(expand details)</summary> Example description </details> - 8/10
 
 ## Books etc.
 * The Name of the Wind by Patrick Rothfuss
@@ -48,7 +19,8 @@ puts 'Expanded message'
 * MLPFIO
 
 ## Blogs/Posts
-* slatestarcodex/astralcodexten
+* Slatestarcodex - meditations on moloch, toxoplasma of rage
+* Astralcodexten - Book Review: What we owe the Future
 * unexpected values
 * the sideways view
 
