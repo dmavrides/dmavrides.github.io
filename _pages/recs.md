@@ -4,6 +4,7 @@ title: ""
 excerpt: ""
 toc: true
 toc_label: "Table of Contents"
+toc_icon: "heart"
 toc_sticky: true
 redirect_from: 
   - /recs/
@@ -12,6 +13,8 @@ redirect_from:
 Please send me recommendations of your own!
 
 Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc. Label which things are mathy. Some of this is redundant from other pages on this website.
+
+{% include _toc.html %}
 
 ## Books etc.
 * The Name of the Wind by Patrick Rothfuss - If you enjoy fantasy, I'd give it a read
