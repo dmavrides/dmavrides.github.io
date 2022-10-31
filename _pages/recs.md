@@ -4,7 +4,6 @@ title: ""
 excerpt: ""
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "heart"
 toc_sticky: true
 redirect_from: 
   - /recs/
@@ -12,7 +11,7 @@ redirect_from:
 ---
 Please send me recommendations of your own!
 
-Maybe I'll try to have a more formal ranking system, make the page cleaner, link to/embed a google sheet or give more description/context etc. Label which things are mathy. Some of this is redundant from other pages on this website.
+Some of the recs here are a little niche, or rely on context/knowledge from various domains. I may try to more clearly label these in the future.
 
 {% include toc %}
 
@@ -30,30 +29,40 @@ Maybe I'll try to have a more formal ranking system, make the page cleaner, link
 * Nate Soares' writings - <a href="https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF">Replacing Guilt</a>
 * Nick Bostrom's writings - <a href="https://nickbostrom.com/fable/dragon">The Fable of the Dragon-Tyrant</a>
 
-## Video Games
+## Games
+### Video Games
 * Baba Is You - Puzzle Game
 * BeatSaber - Guitar Hero but in VR
 * Celeste - Cute platformer with good music, calming & optimistic vibes.
 * Storybook Brawl - Auto battler that I personally enjoy
 * Lichess.org over Chess.com
 
-## Non-Video Games
+### Social Games
+* <a href="http://www.persondothing.com/howto.html">Person do thing</a> - More-constrained taboo. Playing this game feels similar to being in an intro language class where your professor has banned English, but fun.
+* <a href="https://spyfall.tannerkrewson.com/">Spyfall</a> - Social deduction game. I prefer to play where everyone answers questions as if you're just you, instead of role-playing.
+* <a href="https://www.brokenpicturephone.com/">Broken Picturephone</a> - This game is fun to play in person with real paper/pens, or online here over discord or zoom or wherever.
+* <a href="https://drawbattle.io/">drawbattle.io</a> - Basically online (team) pictionary
+* <a href="https://skribbl.io/">skribbl.io</a> - Basically online (ffa) pictionary
 
-* person do thing
-* bananagrams/mongoose
+### Board/Card Games
+* <a href="https://www.nateliason.com/blog/liars-poker">Liars' Poker</a> - A card game that doesn't have betting rounds. I normally play the game starting with only 1 card, I don't use rule 5 in his list, and use more-correct probabilistic distribution of hands (by eliminating flushes with greater than 5 cards, the rest is ltr). Some people prefer to start with 5-7 cards and count down to 0, but I like the rebalancing-nature of the first version.
+* Magic Maze - A fun cooperative board game; decent to play with friends who don't often play board games.
+* Hanabi - A cooperative card game that I think is really fun. Think a cross between bridge and <a href="https://www.popularmechanics.com/science/math/a26557/riddle-of-the-week-27-blue-eyed-islanders/">the blue-eyed islanders puzzle</a>. <a href="https://hanabi.github.io/">Here's</a> a place to learn some conventions, although many of them can be deduced if you think really hard. You can buy cards or <a href="https://hanab.live/">play online</a>.
+* <a href="https://dominion.games/">Dominion</a> - Classic deck-building game
 
+**Pattern-recognition-based Games**
+* <a href="http://www.bananagrammer.com/2009/07/game-of-snatch-aka-anagrams.html">Anagrams/Mongoose/Snatch</a> - I prefer variants of this game to the more-popular bananagrams (although that's also a fine game). I personally prefer to play allowing words to be stolen without adding any letters (but a word can't be arranged back to a prior-formed word with the same tiles).
+* Set
+* <a href="https://www.mathcamp.org/2015/proset/">Proset/Projective Set</a> - A variant of set.  
+* <a href="https://www.pagat.com/adders/24.html">24</a> - A game where you practice mental-arithmetic. I prefer to leave in face cards as 11,12,13, although this does mean you'll have more 'no solution' combinations.
+* Spot It/Dobble - <a href="https://www.youtube.com/watch?v=VTDKqW_GLkw&ab_channel=Stand-upMaths">Here's</a> a nice video by Matt Parker on the math behind the game, and how there's a couple cards missing!
+
+**Other board games I like sometimes**
 * 7 Wonders
 * Splendor
 * Azul
-* Dominion
 
-* Magic Maze
-* Hanabi
-
-* Set
-* Proset
-* 24
-* Spot-it
+* Bughouse
 
 ## TV Shows
 I often watch TV shows (or listen to them using Netflix audio descriptions) while doing other things.
