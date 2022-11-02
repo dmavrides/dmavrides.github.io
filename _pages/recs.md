@@ -102,14 +102,13 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Chernobyl - Historical drama based on true events surrounding the Chernobyl Nuclear disaster. Not framed as a docu-series, as engaging as any fictional drama. Highly critically-acclaimed.
 * The Final Table - A cooking show with terrible reviews (? I didn't know this until I looked it up just now). I don't normally like/watch cooking shows, but I liked this one when I watched it. Maybe I just have bad taste...
 
-**Other shows I've enjoyed but for various reasons wouldn't go so far as to recommend, unless you've seen everything similar above**
+**Other shows I've enjoyed but for various reasons wouldn't go so far as to recommend**
 
 Sometimes grouped roughly by genre, but only kind of
 * The Office (US/UK), Parks and Recreation, The Good Place, Silicon Valley, The IT Crowd, Sneaky Pete, How I Met Your Mother
 * The Boys, The Handmaid's tale, The Walking Dead (first few seasons), The End of the F\*\*\*ing World, American Horror Story (seasons 1-3)
 * Doctor Who, Sherlock, Firefly
 * Rick and Morty
-* Skins (UK), 13 Reasons Why
 * Dahmer
 * Death Note, Attack on Titan
 * Squid Game
@@ -119,39 +118,48 @@ Sometimes grouped roughly by genre, but only kind of
 * Taskmaster
 
 ## YouTube Channels/Videos
-* Vsauce
-* Thunk
+Most of the channels I list here are good even if the content I describe doesn't sound interesting; consider giving them a try even if the description doesn't excite you. (Except some of the math/chess/climbing ones are a bit niche/I admit I'm biased here, so it's harder to tell.)
+* Weird Explorer - Guy travels the world trying every kind of fruit he can find. I don't eat much fruit but love this channel anyway. <a href="https://www.youtube.com/watch?v=GqicsIDYmgU&list=PLvGFkMrO1ZxJR98H4XiJP5ABIzdmx136n&ab_channel=WeirdExplorer">Coco de Mer: My Hunt for the Tree of Knowledge</a>, <a href="https://www.youtube.com/watch?v=agnuTbXuXu0&ab_channel=WeirdExplorer">Cloudberry: My Hunt For One Of The World's Most Elusive Fruits</a>
+* Jan Misali - Random videos, some related to linguistics. <a href="https://www.youtube.com/watch?v=le5uGqHKll8&t=983s&ab_channel=janMisali">hangman is a weird game"</a>, <a href="https://www.youtube.com/watch?v=sg2j7mZ9-2Y&ab_channel=janMisali">w</a>
+* Vsauce - Intellectual explorations. <a href="https://www.youtube.com/watch?v=fCn8zs912OE&t=1114s&ab_channel=Vsauce">The Zipf Mystery</a>, <a href="https://www.youtube.com/watch?v=evQsOFQju08&t=4s&ab_channel=Vsauce">Is Your Red The Same as My Red?</a>, <a href="https://www.youtube.com/watch?v=IJhgZBn-LHg&ab_channel=Vsauce">How Earth Moves</a>
+* The Internet Historian - <a href="https://www.youtube.com/watch?v=Qh9KBwqGxTI&ab_channel=InternetHistorian">The Cost of Concordia</a>, <a href="https://www.youtube.com/watch?v=Ip9VGZeqMfo&ab_channel=InternetHistorian">Man in Cave</a>, <a href="https://www.youtube.com/watch?v=O5BJVO3PDeQ&ab_channel=InternetHistorian">The Engoodening of No Man's Sky</a>
+* Summoning Salt - History of video game speedrunning records. Way more amusing that you'd expect, given the content. <a href="https://www.youtube.com/watch?v=_XkKufyIiAY&ab_channel=SummoningSalt">The History of Wii Sports Resort Golf World Records</a>, <a href="https://www.youtube.com/watch?v=mmJ_LT8bUj0&ab_channel=SummoningSalt">Mario Kart Wii: The History of the Ultra Shortcut</a>
+* 3Blue1Brown - Accessible math videos. Fantastic visualization and explanation for everything from math courses to individual puzzles. <a href="https://www.youtube.com/watch?v=OkmNXy7er84&t=1s&ab_channel=3Blue1Brown">The hardest problem on the hardest test"</a>, <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&t=10s&ab_channel=3Blue1Brown">The essence of calculus</a>, <a href="https://www.youtube.com/watch?v=v68zYyaEmEA&ab_channel=3Blue1Brown">Solving Wordle using information theory</a>
+* GeoWizard - Man tries to cross countries in a perfectly straight line. Also sometimes tries to deduce where photos were taken from just the image and the internet. <a href="https://www.youtube.com/watch?v=M7w986ni7_g&t=336s&ab_channel=GeoWizard">I attempted to cross an entire country in a straight line.</a>, <a href="https://www.youtube.com/watch?v=k-5J0kL7aRs&t=1s&ab_channel=GeoWizard">Can I pinpoint the EXACT location of my fans using a single image?</a>
+* Beau Miles - Kind, wise Australian man often jogs and talks about life. <a href="https://www.youtube.com/watch?v=EvT5XS7j-Dc&t=2s&ab_channel=BeauMiles">Running a marathon, one mile every hour</a>, <a href="https://www.youtube.com/watch?v=rxCghemtjjM&t=21s&ab_channel=BeauMiles">Running 43km along a hidden railway line</a>
+* Nick Bostrom - <a href="https://www.youtube.com/watch?v=MnT1xgZgkpk&ab_channel=TED">What happens when our computers get smarter than we are?</a> If you haven't been given a spiel about the importance of AI safety, this isn't a bad place to start; it was the first exposure I had to any of the arguments, back in 2015. <a href="https://www.youtube.com/watch?v=P0Nf3TcMiHo&ab_channel=TEDxTalks">The end of humanity</a> Similar to the previous video, but for existential risk/transhumanist ideas. <a href="https://www.youtube.com/watch?v=MlftshhkO4k&ab_channel=Science%2CTechnology%26theFuture">Simulation Argument</a> Presents his relatively convincing argument that we live in a simulation.
+* bill wurtz - Honestly, I'm basically just recommending a single video here. <a href="https://www.youtube.com/watch?v=xuCn8ux2gbs&t=287s&ab_channel=billwurtz">history of the entire world, i guess<a/>
+* Tom Scott - informative videos about the world. <a href="https://www.youtube.com/watch?v=Ef93WmlEho0&ab_channel=TomScott">Why California's musical road sounds terrible<a/>, <a href="https://www.youtube.com/watch?v=BxV14h0kFs0&ab_channel=TomScott">This Video Has 60,141,727 Views</a>, <a href="https://www.youtube.com/watch?v=_NzVmtbPOrM&ab_channel=TomScott">I can't show you how pink this pink is.<a/>, <a href="https://www.youtube.com/watch?v=NYj3DnI81AQ&ab_channel=TomScott">Ten years ago, I predicted 2022. Did I get it right?</a>
+* Channel 5/All Gas No Brakes - Andrew Callaghan is a video journalist who travels in a van and interviews people. Sometimes serious situations, sometimes right-wing meetups, sometimes just drunk partygoers. <a href="https://www.youtube.com/watch?v=H110vCGvTmM&ab_channel=AllGasNoBrakes">Flat Earth Conference</a>, <a href="https://www.youtube.com/watch?v=kZPeD2miyF8&ab_channel=AllGasNoBrakes">Minneapolis Protest</a>, <a href="https://www.youtube.com/watch?v=B9v6q5YzbGA&t=203s&ab_channel=Channel5withAndrewCallaghan">Hollywood Antivax Rally</a>
+* Thunk - Introductions to topics in philosophy and reasoning. <a href="https://www.youtube.com/watch?v=hu2mT1KIOHM&t=2s&ab_channel=THUNK">115. The Motte & Bailey Fallacy</a>, <a href="https://www.youtube.com/watch?v=aqjZqzM3rqg&t=217s&ab_channel=THUNK">42. The Meaning of Life, the Universe, & Everything</a>
+* chubbyemu - Videos about odd medical situations. <a href="https://www.youtube.com/watch?v=mZ6nREONy_4&t=153s&ab_channel=Chubbyemu">A Boy Ate 150 Gummy Vitamins For Breakfast. This Is What Happened To His Bones</a>, <a href="https://www.youtube.com/watch?v=NJ7M01jV058&ab_channel=Chubbyemu">A Scientist Spilled 2 Drops Organic Mercury On Her Hand. This Is What Happened To Her Brain.</a>
+* Insights into Mathematics - I recommend this channel specifically because it has a very accessible and entertaining <a href="https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316&ab_channel=InsightsintoMathematics">history of mathematics video series.</a> He argues that introducing mathematics by motivating it in the way people were motivated historically - by chronological incremental progress, and specific interesting problems that required new methods to solve - is a better way to keep attention and understand why various fields are important and how they relate to each other. I found this much more intuitive than the traditional method (going through random topics like calculus and linear algebra, building up formal math via set theory and constructing the reals etc.)
+* Two Minute Papers - Keeping you up to date on advancements in AI, summarizing recent papers and showing examples. <a href="https://www.youtube.com/watch?v=_Y1-KlTEmwk&t=24s&ab_channel=TwoMinutePapers">Google's New AI: Fly INTO Photos!</a>, <a href="https://www.youtube.com/watch?v=HyOW6fmkgrc&t=5s&ab_channel=TwoMinutePapers">Google's Imagen AI: Outrageously Good!</a>
+* Mathologer - Discussing mathematical puzzles and famous problems somewhat accessibly. <a href="https://www.youtube.com/watch?v=CaasbfdJdJg&t=46s&ab_channel=Mathologer">Infinite fractions and the most irrational number</a>, <a href="https://www.youtube.com/watch?v=O1sPvUr0YC0&t=1083s&ab_channel=Mathologer">Why is doubling cubes and squaring circles impossible?"</a> a video that explains how a couple famous problems work, without teaching you a semester of Galois theory (some of his videos more for people interested in math at an advanced high-school or early undergraduate level).
+* Geek Climber - "Average Guy" learns various calisthetics/gives himself climbing challenges. <a href="https://www.youtube.com/watch?v=2wuA-BpWBtc&ab_channel=GeekClimber">This Average Guy Learns the Handstand in 156 days</a>, <a href="https://www.youtube.com/watch?v=Lj4h6XrizJA&ab_channel=GeekClimber">Guy Who Can't Jump Trains 30 Days to Improve His Vertical</a>
+* Rare Earth - Traveler narrates interesting stories from history. <a href="https://www.youtube.com/watch?v=wOGuZnYY_2w&ab_channel=RareEarth">When 2000lbs of Cocaine Washed Up in a Small Town</a>, <a href="https://www.youtube.com/watch?v=-BIA4dgAJ9A&t=878s&ab_channel=RareEarth">The CIA's Secret Genocide in Guatemala</a>
+* Veritasium - I'd be surprised if you're reading this blog and don't know about Veritasium, but here are a couple good videos, if you haven't seen them. <a href="https://www.youtube.com/watch?v=ZMByI4s-D-Y&ab_channel=Veritasium">World's Roundest Object!</a>, <a href="https://www.youtube.com/watch?v=IV3dnLzthDA&t=24s&ab_channel=Veritasium">The Man Who Accidentally Killed The Most People In History</a>, <a href="https://www.youtube.com/watch?v=t-_VPRCtiUg&t=468s&ab_channel=Veritasium">The Surprising Secret of Synchronization</a>
+* Steve Mould - Explanations of scientific phenomena. <a href="https://www.youtube.com/watch?v=DkaJ6iK2CJc&t=642s&ab_channel=SteveMould">I Can Twist My Eye Around Its Pupil (And So Can You)</a>, <a href="https://www.youtube.com/watch?v=Cg73j3QYRJc&t=115s&ab_channel=SteveMould">The Spring Paradox</a>
+* Soft White Underbelly - Videographer interviews drug users, criminals, and various other people who live on the edge of society. (Insert content warnings of basically every kind.) <a href="https://www.youtube.com/watch?v=g6igTJXcqvo&ab_channel=SoftWhiteUnderbelly">Hacker Interview-Gummo</a>, <a href="https://www.youtube.com/watch?v=l9Z1uTX7z58&ab_channel=SoftWhiteUnderbelly">Functional Heroin Addict interview-Matthew</a>, <a href="https://www.youtube.com/watch?v=2DfGSeylQ5o&t=859s&ab_channel=SoftWhiteUnderbelly">Shooting Victim-Jerry</a>
+* The Try Guys - Lighthearted videos of ~4 guys trying to do various things. In particular, I like <a href="https://www.youtube.com/watch?v=V4Uuxg6jmbo&list=PL9qQXSjI-WOqgtYxpBlrJn8d__xzzb8mN&ab_channel=BuzzFeedVideo">Without A Recipe</a>
+* Kyle Beats - Producer produces music with mostly non-professional artists trying to get their break. <a href="https://www.youtube.com/watch?v=GKpNwVd_OLk&ab_channel=KyleBeats">I Paid 'Professional' Rappers to Rap on My Beat</a>, <a href="https://www.youtube.com/watch?v=HOkrI7efDr8&ab_channel=KyleBeats">The Rappers who "Would've KILLED This Beat" get their chance</a>
+* Cracking the Cryptic - Two british sudoku/puzzling champs go through 'Cryptic Sudokus' with you, the viewer. These are basically sudoku puzzles with extra rules that vary by puzzle. A good way to watch these is to click the link in the description, try the puzzle yourself, and then watch the video whenever you get stuck (which may be frequent!) <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&t=3s&ab_channel=CrackingTheCryptic">A Sudoku With Only 4 Given Digits?!</a>, <a href="https://www.youtube.com/watch?v=qX5WPYbT_AU&ab_channel=CrackingTheCryptic">The Best "Easy" Puzzle...But How Fast Can You Solve It?!?</a>
 * Magnus Midtbo
-* Geek climber
-* Mathologer
-* Weird Explorer
-* The Try Guys (esp. without a recipe)
-* The Internet Historian
-* Insights in Mathematics
-* Cracking the Cryptic
-* Summoning Salt
-* Chubbyemu
-* Beau Miles
-* Jan Miseli
-* two minute papers
-* I did a thing
-* Kyle Beats
-* Yes Theory
-* Soft White Underbelly
-* bill wurtz (history of the entire world I guess)
 * Numberphile/Numberphile2 (Tadashi Tokieda)
-* Geowizard (detective, straight line missions)
-* Nilered, Cody's lab
-* Tom Scott
-* 3Blue1Brown and SOME1&2
-* Some Vice Documentaries
-* Rare Earth
-* Steve Mould
+* Nilered
+* SOME1&2
 * Michael Penn
 * Agadmator
 * Chess Explained
+* Peter Lalic
 * Veritasium
-* Nick Bostrom - <a href="https://www.youtube.com/watch?v=MnT1xgZgkpk&ab_channel=TED">What happens when our computers get smarter than we are?</a> If you haven't been given a spiel about the importance of AI safety, this isn't a bad place to start; it was the first exposure I had to any of the arguments, back in 2015. <a href="https://www.youtube.com/watch?v=P0Nf3TcMiHo&ab_channel=TEDxTalks">The end of humanity</a> Similar to the previous video, but for existential risk/transhumanist ideas. <a href="https://www.youtube.com/watch?v=MlftshhkO4k&ab_channel=Science%2CTechnology%26theFuture">Simulation Argument</a> Presents his relatively convincing argument that we live in a simulation.
+
+** Less Strong Recs **
+* Cody's Lab
+* How To Make Everything - Videographer tries to make things from scratch. 
+* some Vice documentaries
+* I did a thing - silly videos, some of which are quite amusing. <a href="https://www.youtube.com/watch?v=OSfUUqNkrOQ&ab_channel=Ididathing">Can I Make A Spoon Using Only A Spoon?"</a>
+* Yes Theory - A few guys explore the world and do things with strangers with the motto 'say yes'. <a href="https://www.youtube.com/watch?v=gOHyy_6Kd2U&t=368s&ab_channel=YesTheory">Abandoned $10,000,000 Mansion of Pablo Escobar</a>, 
 
 ## Movies
 * Parasite
