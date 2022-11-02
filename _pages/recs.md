@@ -120,7 +120,7 @@ Sometimes grouped roughly by genre, but only kind of
 ## YouTube Channels/Videos
 Most of the channels I list here are good even if the content I describe doesn't sound interesting; consider giving them a try even if the description doesn't excite you. (Except some of the math/chess/climbing ones are a bit niche/I admit I'm biased here, so it's harder to tell.)
 * Weird Explorer - Guy travels the world trying every kind of fruit he can find. I don't eat much fruit but love this channel anyway. <a href="https://www.youtube.com/watch?v=GqicsIDYmgU&list=PLvGFkMrO1ZxJR98H4XiJP5ABIzdmx136n&ab_channel=WeirdExplorer">Coco de Mer: My Hunt for the Tree of Knowledge</a>, <a href="https://www.youtube.com/watch?v=agnuTbXuXu0&ab_channel=WeirdExplorer">Cloudberry: My Hunt For One Of The World's Most Elusive Fruits</a>
-* Jan Misali - Random videos, some related to linguistics. <a href="https://www.youtube.com/watch?v=le5uGqHKll8&t=983s&ab_channel=janMisali">hangman is a weird game"</a>, <a href="https://www.youtube.com/watch?v=sg2j7mZ9-2Y&ab_channel=janMisali">w</a>
+* Jan Misali - Random videos, some related to linguistics. <a href="https://www.youtube.com/watch?v=le5uGqHKll8&t=983s&ab_channel=janMisali">hangman is a weird game</a>, <a href="https://www.youtube.com/watch?v=sg2j7mZ9-2Y&ab_channel=janMisali">w</a>
 * Vsauce - Intellectual explorations. <a href="https://www.youtube.com/watch?v=fCn8zs912OE&t=1114s&ab_channel=Vsauce">The Zipf Mystery</a>, <a href="https://www.youtube.com/watch?v=evQsOFQju08&t=4s&ab_channel=Vsauce">Is Your Red The Same as My Red?</a>, <a href="https://www.youtube.com/watch?v=IJhgZBn-LHg&ab_channel=Vsauce">How Earth Moves</a>
 * The Internet Historian - <a href="https://www.youtube.com/watch?v=Qh9KBwqGxTI&ab_channel=InternetHistorian">The Cost of Concordia</a>, <a href="https://www.youtube.com/watch?v=Ip9VGZeqMfo&ab_channel=InternetHistorian">Man in Cave</a>, <a href="https://www.youtube.com/watch?v=O5BJVO3PDeQ&ab_channel=InternetHistorian">The Engoodening of No Man's Sky</a>
 * Summoning Salt - History of video game speedrunning records. Way more amusing that you'd expect, given the content. <a href="https://www.youtube.com/watch?v=_XkKufyIiAY&ab_channel=SummoningSalt">The History of Wii Sports Resort Golf World Records</a>, <a href="https://www.youtube.com/watch?v=mmJ_LT8bUj0&ab_channel=SummoningSalt">Mario Kart Wii: The History of the Ultra Shortcut</a>
@@ -143,7 +143,7 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Soft White Underbelly - Videographer interviews drug users, criminals, and various other people who live on the edge of society. (Insert content warnings of basically every kind.) <a href="https://www.youtube.com/watch?v=g6igTJXcqvo&ab_channel=SoftWhiteUnderbelly">Hacker Interview-Gummo</a>, <a href="https://www.youtube.com/watch?v=l9Z1uTX7z58&ab_channel=SoftWhiteUnderbelly">Functional Heroin Addict interview-Matthew</a>, <a href="https://www.youtube.com/watch?v=2DfGSeylQ5o&t=859s&ab_channel=SoftWhiteUnderbelly">Shooting Victim-Jerry</a>
 * The Try Guys - Lighthearted videos of ~4 guys trying to do various things. In particular, I like <a href="https://www.youtube.com/watch?v=V4Uuxg6jmbo&list=PL9qQXSjI-WOqgtYxpBlrJn8d__xzzb8mN&ab_channel=BuzzFeedVideo">Without A Recipe</a>
 * Kyle Beats - Producer produces music with mostly non-professional artists trying to get their break. <a href="https://www.youtube.com/watch?v=GKpNwVd_OLk&ab_channel=KyleBeats">I Paid 'Professional' Rappers to Rap on My Beat</a>, <a href="https://www.youtube.com/watch?v=HOkrI7efDr8&ab_channel=KyleBeats">The Rappers who "Would've KILLED This Beat" get their chance</a>
-* Cracking the Cryptic - Two british sudoku/puzzling champs go through 'Cryptic Sudokus' with you, the viewer. These are basically sudoku puzzles with extra rules that vary by puzzle. A good way to watch these is to click the link in the description, try the puzzle yourself, and then watch the video whenever you get stuck (which may be frequent!) <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&t=3s&ab_channel=CrackingTheCryptic">A Sudoku With Only 4 Given Digits?!</a>, <a href="https://www.youtube.com/watch?v=qX5WPYbT_AU&ab_channel=CrackingTheCryptic">The Best "Easy" Puzzle...But How Fast Can You Solve It?!?</a>
+* Cracking the Cryptic - Two british sudoku/puzzling champs go through 'Cryptic Sudokus' with you. These puzzles are basically sudoku puzzles with extra rules that vary by puzzle. A good way to watch these is to click the link in the description, try the puzzle yourself, and then watch the video whenever you get stuck (which may be frequent!) <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&t=3s&ab_channel=CrackingTheCryptic">A Sudoku With Only 4 Given Digits?!</a>, <a href="https://www.youtube.com/watch?v=qX5WPYbT_AU&ab_channel=CrackingTheCryptic">The Best "Easy" Puzzle...But How Fast Can You Solve It?!?</a>
 * Magnus Midtbo
 * Numberphile/Numberphile2 (Tadashi Tokieda)
 * Nilered
@@ -154,7 +154,7 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Peter Lalic
 * Veritasium
 
-** Less Strong Recs **
+**Less Strong Recs**
 * Cody's Lab
 * How To Make Everything - Videographer tries to make things from scratch. 
 * some Vice documentaries
