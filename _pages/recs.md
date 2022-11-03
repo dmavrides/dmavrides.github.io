@@ -5,14 +5,12 @@ excerpt: ""
 redirect_from: 
   - /recs/
   - /recs.html
-toc: true
-toc_sticky: true
 ---
 Please send me recommendations of your own!
 
 Some of the recs here are a little niche, or rely on context/knowledge from various domains. I may try to more clearly label these in the future.
 
-<!--- {% include toc %} -->
+{% include toc %}
 
 ## Books etc.
 * The Name of the Wind by Patrick Rothfuss - If you enjoy fantasy, I'd give it a read
