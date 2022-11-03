@@ -144,49 +144,44 @@ Most of the channels I list here are good even if the content I describe doesn't
 * The Try Guys - Lighthearted videos of ~4 guys trying to do various things. In particular, I like <a href="https://www.youtube.com/watch?v=V4Uuxg6jmbo&list=PL9qQXSjI-WOqgtYxpBlrJn8d__xzzb8mN&ab_channel=BuzzFeedVideo">Without A Recipe</a>
 * Kyle Beats - Producer produces music with mostly non-professional artists trying to get their break. <a href="https://www.youtube.com/watch?v=GKpNwVd_OLk&ab_channel=KyleBeats">I Paid 'Professional' Rappers to Rap on My Beat</a>, <a href="https://www.youtube.com/watch?v=HOkrI7efDr8&ab_channel=KyleBeats">The Rappers who "Would've KILLED This Beat" get their chance</a>
 * Cracking the Cryptic - Two british sudoku/puzzling champs go through 'Cryptic Sudokus' with you. These puzzles are basically sudoku puzzles with extra rules that vary by puzzle. A good way to watch these is to click the link in the description, try the puzzle yourself, and then watch the video whenever you get stuck (which may be frequent!) <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&t=3s&ab_channel=CrackingTheCryptic">A Sudoku With Only 4 Given Digits?!</a>, <a href="https://www.youtube.com/watch?v=qX5WPYbT_AU&ab_channel=CrackingTheCryptic">The Best "Easy" Puzzle...But How Fast Can You Solve It?!?</a>
-* Magnus Midtbo
-* Numberphile/Numberphile2 (Tadashi Tokieda)
-* Nilered
-* SOME1&2
-* Michael Penn
-* Agadmator
-* Chess Explained
-* Peter Lalic
-* Veritasium
+* Numberphile - popular math videos. I like their interviews, like <a href="https://www.youtube.com/watch?v=qrJCm10ajJw&ab_channel=Numberphile2">this interview</a> on Numberphile 2 with Tadashi Tokeida about his life (originally a linguist and painter, now a stanford math professor!), and <A href="https://www.youtube.com/watch?v=gjVDqfUhXOY&t=5s&ab_channel=Numberphile">Billionaire Mathematician</a> with Jim Simons.
 
-**Less Strong Recs**
-* Cody's Lab
-* How To Make Everything - Videographer tries to make things from scratch. 
-* some Vice documentaries
-* I did a thing - silly videos, some of which are quite amusing. <a href="https://www.youtube.com/watch?v=OSfUUqNkrOQ&ab_channel=Ididathing">Can I Make A Spoon Using Only A Spoon?"</a>
-* Yes Theory - A few guys explore the world and do things with strangers with the motto 'say yes'. <a href="https://www.youtube.com/watch?v=gOHyy_6Kd2U&t=368s&ab_channel=YesTheory">Abandoned $10,000,000 Mansion of Pablo Escobar</a>, 
+** More Niche Recs**
+  *<a href="https://www.youtube.com/c/MichaelPennMath/videos">Michael Penn</a> - walking you through 1 math problem per day
+* <a href="https://www.youtube.com/watch?v=G90SVhxKeig&t=62s&ab_channel=agadmator%27sChessChannel">Agadmator</a> - daily chess videos
+* Chessexplained - Doesn't post much here anymore, but his explanations are pretty good during his live blitz games, rapid games, and opening videos. I liked <a href="https://www.youtube.com/watch?v=ww5kyjKbhu0&list=PL9FA3D5561ADFB090&ab_channel=Chessexplained">this short opening series</a> on 1 d4 when I started playing chess.
+* Cody's Lab/NileRed - Chemistry videos
 
 ## Movies
+### Cerebral/Thriller
 * Parasite
-* The Intouochables
 * Memento
-* La La Land
-* Perks of being a Wallflower
-* Inside by Bo Burnham
-* Submarine
 * Ex Machina
-* A Star is Born
-* Mr. Nobody
-* Marriage Story
+* Mr. Nobody 
 * Bandersnatch
 * The Truman Show
 * Fight Club
 * Nightcrawler
-* Shawshank Redemption
-* Schindler's List
-* Pulp Fiction
-* Forrest Gump
 * Inception
-* The Martian
-* Hamilton
 * Predestination
 * Shutter Island
-* Free Solo
+* Interstellar
+  
+### Other
+* Inside by Bo Burnham - Comedian Bo Burnham shoots and performs a comedy special alone during the first year of covid. I watched this right as I finally interacted with people again after a year and it was cathartic. He stepped up his music-game and matured a lot since his previous content.
+* Submarine - British coming-of-age comedy drama. A little off-beat, with the satific/dry humor that I often enjoy. Haven't seen it for a while but I remember enjoying the movie enough to add to the list.
+* The Intouchables - feel good comedy/drama based on a true story about a wealthy quadriplegic who hires an ex-con to be his caretaker. This was the most-viewed French film for a few years after its release.
+* Forrest Gump - If you still haven't seen this drama/romance movie from the 90s, it's never too late
+* La La Land - musical drama/romance; music is great, movie itself is also good
+* Perks of being a Wallflower - if you were a socially awkward teen, you might like this coming-of-age drama. I watched it a while ago, so take it up with past-Dylan if it doesn't hold up
+* A Star is Born - Stars Bradley Cooper and Lady Gaga. Good music, romantic drama. Not normally my type of movie, watched it on a long flight and was surprised at how much I enjoyed it.
+* Marriage Story - A depiction of the difficulties of balancing family and a career + a modern depiction of divorce that held my attention for the whole movie.
+* Shawshank Redemption - considered by some to be the greatest film ever, if you've forgotten to watch it, this is your reminder
+* Pulp Fiction - speaking of films that some consider to be the greatest; I put off this one for a while, assuming it was overhyped by film buffs and the sort of movie you pretended to like to fit in with them.
+* Hamilton - speaking of films that some consider to be the greatest; if you're never going to cough up the money to see the broadway show for Hamilton, the Disney recording of the production is pretty good.
+* Schindler's List - The best movie I watched at school. The music by John Williams performed by Perlman is also heart-wrenchingly beautiful.
+* The Martian - Sci-fi/action. A rare case where the movie is purportedly better than the book. Matt Damon is stuck on Mars after a disaster and tries to survive. Interesting uses of science and just a good movie.
+* Free Solo - Movie about Alex Honnald, a rock climber who wants to 'Free Solo' the most spectacular rock-climbing route in the world; a mountain face in Yellowstone called El Capitan.
 
 ## Music
 * I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR, but have a lot of variety in what I listen to.
