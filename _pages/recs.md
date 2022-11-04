@@ -6,11 +6,10 @@ redirect_from:
   - /recs/
   - /recs.html
 ---
+{% include toc %}
 Please send me recommendations of your own!
 
 Some of the recs here are a little niche, or rely on context/knowledge from various domains. I may try to more clearly label these in the future.
-
-{% include toc %}
 
 ## Books etc.
 * The Name of the Wind by Patrick Rothfuss - If you enjoy fantasy, I'd give it a read
@@ -25,6 +24,10 @@ Some of the recs here are a little niche, or rely on context/knowledge from vari
 * Terry Tao's blog - <a href="https://terrytao.wordpress.com/about/anonymity-and-the-internet/">Anonymity and the internet</a>
 * Nate Soares' writings - <a href="https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF">Replacing Guilt</a>
 * Nick Bostrom's writings - <a href="https://nickbostrom.com/fable/dragon">The Fable of the Dragon-Tyrant</a>
+
+### Comics
+* XKCD - Surprising if you haven't heard of XKCD. Oft-vaguely-science-related comics. Also neat observations about the world, for example <a href="https://xkcd.com/1053/">"The Lucky 10000"</a>.
+* The Oatmeal - Okay fine, I really just like <a href="https://theoatmeal.com/comics/running">this mini-series on running.</a>
 
 ## Games
 ### Video Games
@@ -151,18 +154,19 @@ Most of the channels I list here are good even if the content I describe doesn't
 
 ## Movies
 ### Cerebral/Thriller
-* Parasite
-* Memento
-* Ex Machina
-* Mr. Nobody 
-* Bandersnatch
-* The Truman Show
-* Fight Club
-* Nightcrawler
-* Inception
-* Predestination
-* Shutter Island
-* Interstellar
+* Parasite - A poor family cons a wealthy family. First non-English-language film to win the Oscar for Best Picture.
+* Memento - A Christopher Nolan nonlinear-mystery where the main man has anterograde amnesia.
+* Ex Machina - This Bladerunner-esque film explores artificial intelligence and what it means to be human.
+* Mr. Nobody - Tells the life-story of the last mortal man on earth.
+* Bandersnatch - A literal choose-your-own adventure Black Mirror movie on Netflix. 
+* The Truman Show - A man is unaware that he lives inside of an elaborate TV set, broadcasting his life.
+* Fight Club - A film that seems to be about siezing the day, but evolves into something more complicated.
+* Nightcrawler - About a man who stumbles into a career as a crime photographer. Not a traditional horror movie, but I remember thinking this was a terrifying film when I saw it.
+* Inception - A Christopher Nolan film about living your dreams - or, somebody else's? Leonardo DiCaprio fails to win an Oscar, but nevertheless puts on a good show.
+* Shutter Island - A mystery where Leonardo DiCaprio (once again, failing to win an Oscar) is a U.S. Marshall investigating an escape from a high-security insane asylum.
+* Predestination - Takes you for an even wilder ride than most movies on my list. Not very well-known/criminally underrated in my opinion.
+* Interstellar - Humanity is running low on resources and scientists make plans to explore space in the hopes of finding another habitable planet. Another Christopher Nolan film. 
+* Snowpiercer - Set in a post-apocalyptic world where the only remnants of humanity live in a class-divided luxury train continually circumnavigating the world. By the same director as Parasite. 
   
 ### Other
 * Inside by Bo Burnham - Comedian Bo Burnham shoots and performs a comedy special alone during the first year of covid. I watched this right as I finally interacted with people again after a year and it was cathartic. He stepped up his music-game and matured a lot since his previous content.
@@ -198,23 +202,45 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Roka Akor in Chicago, IL
 
 ## Habits
-Write things down - 
-* Write down thoughts you have that you think are worth saving
-* Moment Journaling so you remember your life
-* Dream Journaling (literal/metaphorical) - apparently staying intentional mostly a matter of writing goals down
-* Logging Exercise so you can see progress over time
-* Multi-tasking with netflix audio description/podcasts/audiobooks
-* On that note; looking for podcast versions of things you'd otherwise read (ex. Astral Codex Ten Podcast on Spotify!)
-* Try things regularly (i.e. pull-ups in doorways)
-* Getting 2 of (some) things (laundry hamper, charger, for example)
+### Write things down
+I do this on my phone in Obsidian, although for ~7 years I used ColorNote, which is simpler to use and normally sufficient.
 
-## Misc.
-* Shockz headphones
-* Adjustable dumbbells
-* A doorway pull-up bar
-* Humidifier
-* Blender for protein shakes/smoothies
-* fitbit
-* Tungsten cube
-* lesswrong
-* Escape Rooms
+I think this is my best habit that most people don't have.
+* Miscellaneous - Keep a notes file on your phone where you write down any thoughts/ideas you have that you think are worth remembering. Things like: fun facts you learn, an app idea you have, a question you wish you knew the answer to, a puzzle someone gives you that you haven't solved. You can make more granular notes, but that adds work; I recommend at least one 'catch-all' file where you can write important things down as easily as possible.
+* Moment Journaling - I have an alarm for 11pm where every day I write down ~1-3 bullets (occasionally more) about the most important things that happened to me that day. I've tried journaling before and it's fallen off, but this is easy enough that I've kept up with it for over a year and I expect to keep doing it forever. It's easy for time to fly by, this helps you remember what's happened, and helps give you some context on how you've been changing over timme.
+* Logging Exercise - so you can more easily see progress/patterns over time, and have reference points for exercises you don't do super regularly. I do this in a notepad on my phone
+* At work: maintain a Google doc or other text file that you write down notes in so you can ctrl+f later. I keep a separate doc for programming so that I can search for syntax and other little things I've written down in the past.
+* Other note files I have on my phone include: Recs for Others, Recs from Others, Dreams, Gifts, Inspirational, Vacation/travel/date ideas, Think to Sleep (things to think about when trying to fall asleep).
+* Whenever I go to an event like a conference or long talk that I care about, I often make a dedicated note for it.
+  
+### Other Productivity
+* Multi-tasking with audio - Not for everyone, but I do lots of things (exercising, doing chores, mindless games, walking places) while listening to Netflix using their English with Audio Descriptions setting (they don't have this for every show, but for many including all Netflix original Series; Hulu and other services have also been adding this) podcasts, youtube videos that don't have important video, or audiobooks. 
+* Look for podcast versions of things you'd otherwise read (ex. Astral Codex Ten Podcast on Spotify! Lesswrong Curated Podcast/Nonlinear library, etc.)
+* Get 2 of things that you'll probably get more of eventually anyway, or for things where having 2 is better. For example, getting a backup phone-charger in case you lose or break your existing one. Getting a backup pair of the earbuds you like using, especially if they're cheap and you often misplace them (you can do the cost-benefit of how much time you'd save from not-searching for a thing when you've lost it, when you'd randomly find it without searching later on). I have a second clothes hamper so that after doing my laundry, I don't[^1] put dirty clothes on the floor while the other one has clean clothes in it.
+* If you want to improve at something that involves motor skills, try doing it for short periods of time regularly. For example: improving typing skills, solving rubik's cubes, juggling, or even exercises like pull-ups, push ups etc.
+  
+### Other
+* Donating effectively - (page under construction)
+* Making bets as a way to hold yourself accountable - (page under construction)
+* Invest in Index funds - (page under construction)
+
+## Items
+  * <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
+  * <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
+  * <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
+* Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
+  * <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
+  * <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
+  * <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
+  * <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
+  * <a href="https://amzn.to/3sW69B4">Nishiki Rice</a> - I use this rice in my rice cooker, even though it's a little more expensive than other rice.
+  * <a href="https://amzn.to/3FLDbvG">Zojirushi Water Boiler</a> - If you're a fan of Zojirushi products and you often make tea or pasta, this water boiler keeps you almost-boiling water available immediately all the time. If you like making pasta, having one of these speeds up the process considerably. Science point - you leave this plugged in all the time, but it doesn't take tons of extra energy to do so, since you basically just have to heat up the water and keep it relatively insulated, then it just takes a little bit of energy to keep it hot! Credit to Adam Canady for recommending this to me in the context of efficient-pasta-making.
+  * <a href="https://amzn.to/3U5ZnF2">De Cecco Penne Pasta (12 lbs)</a> - Speaking of efficient-pasta-making, I buy this De Cecco penne in bulk and store it in my closet. It's very cheap per meal and makes amazing pasta. I make a lot of it at once and store it in my fridge with a little olive oil, then use different pasta sauces for each leftover meal and it's great.
+  
+## Other
+* Escape Rooms - Sometimes I think: "What's a good random thing to do today, where I have nothing planned but people who I should _do a thing_ with?" A couple times when I've had this thought, we've done an escape room, and it's never felt like a mistake. 
+* Consider using a laundry service. If you dislike doing laundry/find it inconvenient/live somewhere services are cheap especially. It's like $15 per load of laundry where I live, and they even fold it for you. If you aren't used to doing cost/benefit calculations, here's your practice problem.
+* YouTube Premium - If you're like me and watch a lot of YouTube videos, you probably also watch a lot of YouTube ads. Youtube premium is $10/month ($7 for students, $23 for a 5-member family plan, and free for the first 3 months, at least when I'm writing this), so you can do the math on expected-time-saved vs. cost and decide if it's worth it for you.
+  
+
+  [^1]: Okay fine, less frequently
