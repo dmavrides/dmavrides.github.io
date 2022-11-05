@@ -13,6 +13,71 @@ redirect_from:
 Please send me recommendations of your own!
 {% include toc %}
 
+## Habits
+### Write things down
+I do this on my phone in Obsidian, although for ~7 years I used ColorNote, which is simpler to use and normally sufficient.
+
+I think this is my best habit that most people don't have.
+* Miscellaneous - Keep a notes file on your phone where you write down any thoughts/ideas you have that you think are worth remembering. Things like: fun facts you learn, an app idea you have, a question you wish you knew the answer to, a puzzle someone gives you that you haven't solved. You can make more granular notes, but that adds work; I recommend at least one 'catch-all' file where you can write important things down as easily as possible.
+* Moment Journaling - I have an alarm for 11pm where every day I write down ~1-3 bullets (occasionally more) about the most important things that happened to me that day. I've tried journaling before and it's fallen off, but this is easy enough that I've kept up with it for over a year and I expect to keep doing it forever. It's easy for time to fly by, this helps you remember what's happened, and helps give you some context on how you've been changing over timme.
+* Logging Exercise - so you can more easily see progress/patterns over time, and have reference points for exercises you don't do super regularly. I do this in a notepad on my phone
+* At work: maintain a Google doc or other text file that you write down notes in so you can ctrl+f later. I keep a separate doc for programming so that I can search for syntax and other little things I've written down in the past.
+* Other note files I have on my phone include: Recs for Others, Recs from Others, Dreams, Gifts, Inspirational, Vacation/travel/date ideas, Think to Sleep (things to think about when trying to fall asleep).
+* Whenever I go to an event like a conference or long talk that I care about, I often make a dedicated note for it.
+  
+### Productivity
+* Multi-tasking with audio - Not for everyone, but I do lots of things (exercising, doing chores, mindless games, walking places) while listening to Netflix using their English with Audio Descriptions setting (they don't have this for every show, but for many including all Netflix original Series; Hulu and other services have also been adding this) podcasts, YouTube videos that don't have important video, or audiobooks. 
+* Look for podcast versions of things you'd otherwise read (ex. Astral Codex Ten Podcast on Spotify! Lesswrong Curated Podcast/Nonlinear library, etc.)
+* Get 2 of things that you'll probably get more of eventually anyway, or for things where having 2 is better. For example, getting a backup phone-charger in case you lose or break your existing one. Getting a backup pair of the earbuds you like using, especially if they're cheap and you often misplace them (you can do the cost-benefit of how much time you'd save from not-searching for a thing when you've lost it, when you'd randomly find it without searching later on). I have a second clothes hamper so that after doing my laundry, I don't[^1] put dirty clothes on the floor while the other one has clean clothes in it.
+* If you want to improve at something that involves motor skills, try doing it for short periods of time regularly. For example: improving typing skills, solving Rubik's cubes, juggling, or even exercises like pull-ups, push ups etc.
+* If you want to work through a textbook and solve problems, and you don't want to carry around/lose track of that work in various notebooks or sheets of paper, etc. I recommend using an iPad, where you can open a pdf or book etc. on half the screen and a note-taking app on the other half. I put pdf files on Google drive then import them to the native Books app, and use Notability (free) for note-taking. I considered alternatives like the Remarkable and other tablets, including a kindle that I bought (I like eink), but none of them had the functionality I wanted. See the exact iPad version I recommend/pencil/case in my items section.
+  
+### Other
+* Donating effectively - (page under construction)
+* Making bets as a way to hold yourself accountable - (page under construction)
+* Invest in Index funds - (page under construction)
+* If you watch Twitch streams but don't interact with chat, watching vods are great because you can skip around.
+
+## Items
+* <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
+* <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
+* <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
+* <a href="https://amzn.to/3E2FiK7">Miracle Fruit Tablets</a> - Like hallucinogenics for your taste-buds. <a href="https://www.youtube.com/watch?v=8O8WG0d9jaY&ab_channel=WeirdExplorer">Here's</a> a history and video-review of the fruit by a youtuber that I like. Pretty interesting.
+* Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
+* <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
+* <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
+* <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
+* <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
+* <a href="https://amzn.to/3sW69B4">Nishiki Rice</a> - I use this rice in my rice cooker, even though it's a little more expensive than other rice.
+* <a href="https://amzn.to/3FLDbvG">Zojirushi Water Boiler</a> - If you're a fan of Zojirushi products and you often make tea or pasta, this water boiler keeps you almost-boiling water available immediately all the time. If you like making pasta, having one of these speeds up the process considerably. Science point - you leave this plugged in all the time, but it doesn't take tons of extra energy to do so, since you basically just have to heat up the water and keep it relatively insulated, then it just takes a little bit of energy to keep it hot! Credit to Adam Canady for recommending this to me in the context of efficient-pasta-making.
+* <a href="https://amzn.to/3U5ZnF2">De Cecco Penne Pasta (12 lbs)</a> - Speaking of efficient-pasta-making, I buy this De Cecco penne in bulk and store it in my closet. It's very cheap per meal and makes amazing pasta. I make a lot of it at once and store it in my fridge with a little olive oil, then use different pasta sauces for each leftover meal and it's great.
+* <a href="https://amzn.to/3U02Wwp">Brita Filter faucet attachment</a> - I pretty stronger prefer carbon-filtered water. Brita filters are kind of annoying to refill constantly; this faucet attachment gives you nicely filtered water on tap.
+* Computer Wrist Rest - I like <a href="https://amzn.to/3T8Sp0u">this one</a>, but probably other ones are good. Makes a noticable difference on the strain I get from using my computer for long periods of time.
+* <a href="https://amzn.to/3U9hxWj">Quaker Simply Granola Oats</a> - I like this granola in greek yogurt.
+* <a href="https://amzn.to/3FGKfcS">Keyboard: Leopold FC980C 30g (Compact Topre Switches)</a> - Obviously very expensive keyboard, but I own a few mechanical keyboards and this one is by far my favorite. The keys are very light and it's very satisfying to type on. If you're a keyboard enthusiast,  consider giving it a try.
+* <a href="https://amzn.to/3WyBLKD">Blood Type Kit</a> - I didn't know my blood type, now I do[^2], and you can too!
+* <a href="https://amzn.to/3h25uvg">Tournament Chess Set</a> - If you play chess but don't have a set, I recommend getting this one, and not a cheaper knock-off from Amazon. I bought a set that looked just like this on the item page, but then it was unexpectedly 3/4th size. I have 2 sets for bughouse.
+* <a href="https://amzn.to/3WpN0oK">Outlet splitter</a> - Never run out of outlets ever again.
+* <a href="https://amzn.to/3DDEfz1">CeraVe Moisturizing Lotion for Itch Relief</a> - I normally hate the feeling of oily lotion and related things, but I occasionally get itchy dry skin on my elbow, and this is by far the best thing for it out of everything I tried, both for relief and for recovery.
+* <a href="https://amzn.to/3h91byq">Blistex lip ointment</a> - If you ever get chapped lips in the winter, this stuff is just way better than anything else I've used. I put on a little bit of this and chapstick on top of it and my lips get unchapped very quickly.
+* <a href="https://amzn.to/3E2OjTv">Microwave Cover</a> - If you microwave things, and they splatter, you can use this to save yourself some cleaning.
+* <a href="https://amzn.to/3U9jWQP">Shower Curtain Weights</a> - If your shower curtain gets sucked in and sticks to you when you shower (Bernoulli's principle!), you can get these weights to help.
+* <a href="https://amzn.to/3zLAHti">T-Shirts for Men</a> - I really like these tees. They're comfy, have a good fit/cut, are pretty cheap, and are plain in nice colors. (They also make <a href="https://amzn.to/3t6uNPv">shirts for women,</a> but I can't personally vouch for their quality.)
+* <a href="https://amzn.to/3WweMA3">Comfy towel set</a> - I use these towels and I think they're very comfy.
+* <a href="https://amzn.to/3sYwfn0">OWYN Chocolate Protein Shakes (vegan)</a> - By far the best vegan protein shakes I've ever had. They're a little expensive, but other vegan protein powder/shakes I've tried are just much worse.
+* <a href="https://amzn.to/3Wwr7nO">Balega Socks</a> - Maybe you have no need for very nice socks, but if you do (and are willing to pay $20 for a pair of socks), these are really comfy socks. I bought ~10 different specialty sock brands (mostly catered to runners), and these were clearly the best.
+* <a href="https://amzn.to/3E1t4kN">Used Apple iPad Pro 12.9-in. 3rd generation</a> - This is the only Apple product I've purchased for myself, I'm an Android/Windows guy. That said, after much research, it's just clearly the best tool for reading e-textbooks while also taking notes side-by-side. For most use-cases, the Pro 12.9-in. 3rd generation is the model you want. You can get it used for relatively cheap, and the models have not improved by much since then.
+* <a href="https://amzn.to/3E1DPni">Apple Pencil (2nd gen)</a> - For note-taking while reading etc. I initially got a knock-off Apple pencil for $30, but it's much less consistent syncing/randomly disconnects and has worse battery-life, so maybe actually get a regular one.
+* <a href="https://amzn.to/3TmCEn7">iPad Case</a> - This is a really good/cheap case. Has space for the pencil, and it's very easy to take out of the spot. The charger-hole works well (some other cases are surprisingly bad at this).
+* <a href="https://amzn.to/3fEbQ3N">Collapsible Laundry Hamper</a> - I have 2 copies of this $7 hamper.
+* <a href="https://amzn.to/3FIX6er">GAN 11 M Pro, 3x3 Magnetic Speed Cube</a> - This is basically the best Rubik's cube. Also expensive (cheaper GAN models are also probably good), but if you decide you want to speed cube, it's the one to get. One friend I recommended it to cut 25% off his time by using it instead of his old cube.
+* <a href="https://amzn.to/3FGOHIC">'Greenies' Dog Treats</a> - These are my dog's favorite treats. He begs for them every evening at the same time. He's addicted.
+* <a href="https://amzn.to/3WACHy8">Shoe Balancer/Leveler</a> - If you ever injure your foot/ankle and need to use a medical boot, wearing one of these on your other shoe will balance out your height. Actually made a huge quality-of-life difference for me.
+* <a href="https://amzn.to/3DBEMl2">Digital Bathroom Scale</a> - If you're trying to build muscle or diet, it's helpful to have a scale for a feedback mechanism. I'm sure basically any such scale is good; I just know this one works.
+* <a href="https://amzn.to/3G3sO6D">Ice Cream Scoop</a> - Instead of bending your spoons and hurting your palm, this pointy ice-cream scoop works well.
+* <a href="https://amzn.to/3E4prLg">Groove Belt</a> - A stretchy stylish(?) belt that's very adjustable and made from nylon and aluminum.
+* <a href="https://amzn.to/3T93ZJ0">JBL Flip Speaker</a> - Surprisingly loud waterproof speaker. Great for listening to things in the shower, outside, for a party, etc.
+
 ## YouTube Channels/Videos
 If you just want the videos, <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">here's a youTube playlist</a> I made that's (probably mostly) synced with the below recs list. <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjxOqsXi68qX_QeFJgPmYA-z">Here's</a> a playlist with videos I might add to the original list, but haven't yet added.
 
@@ -51,7 +116,7 @@ Most of the channels I list here are good even if the content I describe doesn't
 * <a href="https://www.youtube.com/watch?v=G90SVhxKeig&t=62s&ab_channel=agadmator%27sChessChannel">Agadmator</a> - daily chess videos
 * Chessexplained - Doesn't post much here anymore, but his explanations are pretty good during his live blitz games, rapid games, and opening videos. I liked <a href="https://www.youtube.com/watch?v=ww5kyjKbhu0&list=PL9FA3D5561ADFB090&ab_channel=Chessexplained">this short opening series</a> on 1 d4 when I started playing chess.
 * Cody's Lab/NileRed - Chemistry videos
-
+  
 ## Movies
 ### Cerebral/Thriller
 * Parasite - A poor family Korean family concocts a scheme to con a wealthy family. First non-English-language film to win the Oscar for Best Picture.
@@ -83,6 +148,59 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Schindler's List - The best movie I watched at school. The music by John Williams performed by Perlman is also heart-wrenchingly beautiful.
 * The Martian - Sci-fi/action. A rare case where the movie is purportedly better than the book. Matt Damon is stuck on Mars after a disaster and tries to survive. Interesting uses of science and just a good movie.
 * Free Solo - Movie about Alex Honnald, a rock climber who wants to 'Free Solo' the most spectacular rock-climbing route in the world; a mountain face in Yellowstone called El Capitan.
+  
+## TV Shows
+I often watch TV shows (or listen to them using Netflix audio descriptions) while doing other things.
+### Comedy
+* Brooklyn Nine-Nine - If you like sitcoms, this should be at the top of your list.
+* Nathan for you/The Rehearsal - Two of my favorite shows on this page. In the former, Nathan Fielder gives 'unorthodox' marketing ideas to small businesses. The latter is a ride of it's own.
+* Bojack Horseman - Dark, depressing, witty satire. 
+* Crazy Ex-Girlfriend - A lighthearted musical romcom/satire. The musical element to the show works surprisingly well.
+* 30 Rock - A lighthearted sitcom by Tina Fey and Donald Glover.
+* Ted Lasso - My favorite currently-running sitcom. Jason Sudeikis is well-revered American football coach who's hired to be manager of a British football (soccer) team.
+* Schitt's Creek - lighthearted sitcom/drama. I didn't love this show as much as some people, but for people who are big into sitcoms like modern family, friends, and the like; this is one of the better recent ones IMO.
+
+* How To with John Wilson - Executive Produced by Nathan Fielder, similar-ish in style to the other two shows.
+
+### Drama
+* Master of None - A romantic comedy drama. I really love this show (at least seasons 1-2); give it a try if you're looking for something lighthearted.
+* Breaking Bad/Better Call Saul - Both dark, but very engaging. If you've seen Breaking Bad and liked it but haven't tried Better Call Saul, you should.
+* The Queen's Gambit - Coming-of-age/historical drama. I'm biased here, but hard to argue with the 96% on Rotten Tomatoes. The scenary in the show is particularly entrancing. Some small overdramatizations when it comes to the chess, but not as egregious as most media of its kind.
+* Atlanta - Cerebral drama. Donald Glover is a manager for his cousin trying to make it in the Atlanta rap game. This show certainly tries to do a lot; I won't say much more, but it certainly takes you for a (progressively trippier) ride.
+* Barry - dark comedy drama. Bill Hader is a depressed hitman who ends up taking acting classes.
+* Patriot - dark comedy drama. John is a depressed but competent undercover agent. 
+* Fleabag - dry comedy drama. If you like british comedy, this is a short series you'll probably enjoy.
+* The Leftovers - sci-fi drama. I've seen a lot of sci-fi/dystopian dramas and this was definitely one of the better ones. Took me a couple episodes to get into it.
+* Game of Thrones - I waited until the last season was airing to watch this show, so I wasn't very excited for it. I think that it wasn't really my type of show, but I still liked it. If you've held out watching it and don't mind some blood/gore, there's a reason why it was everywhere for 8 years.
+* House of Cards - An intricate political drama. One of those shows where if you pay attention, there are some big payoffs. I think the first couple seasons are the best. No longer a Spacey fan, this is just a rec for the show.
+* Community - A classic sitcom. If you're a sitcom person and you like other sitcoms on this list, here you go.
+
+### Action/Adventure
+* Daredevil - I watched the MCU shows so you don't have to. This is the best one; if you need to watch one more, I'd recommend Jessica Jones.
+* Legion - Okay this is a psychological thriller, but still a superhero series! I don't remember much about this show to be honest, but I wrote it on my recs list so if you want a superhero show it's probably not a bad pick.
+* Avatar the last Airbender/The Legend of Korra - Fantasy coming-of-age stories. If you like Avatar as a kid, Legend of Korra is similar but for slightly older audiences, and I enjoyed it a couple of years ago.
+* Stranger Things - sci-fi drama; I'm sure you've heard of it, but I'm listing it here anyway. Breakfast Club vibes.
+
+### Other
+* Black Mirror - Cerebral Anthology series. The episodes vary a lot in quality, in my opinion. I would start out with *White Christmas*, *Hated in the Nation*, and *San Junipero*.
+* McMillion$ - True docu-series about how the McDonald's Monopoly promotion was rigged by the mob
+* Chernobyl - Historical drama based on true events surrounding the Chernobyl Nuclear disaster. Not framed as a docu-series, as engaging as any fictional drama. Highly critically-acclaimed.
+* The Final Table - A cooking show with terrible reviews (? I didn't know this until I looked it up just now). I don't normally like/watch cooking shows, but I liked this one when I watched it. Maybe I just have bad taste...
+
+**Other shows I've enjoyed but for various reasons wouldn't go so far as to recommend**
+
+Sometimes grouped roughly by genre, but only kind of.
+* The Office (US/UK), Parks and Recreation, The Good Place, Silicon Valley, The IT Crowd, Sneaky Pete, How I Met Your Mother
+* The Boys, The Handmaid's tale, The Walking Dead (first few seasons), The End of the F\*\*\*ing World, American Horror Story (seasons 1-3)
+* Doctor Who, Sherlock, Firefly
+* Rick and Morty
+* Dahmer
+* Death Note, Attack on Titan
+* Squid Game
+* Without a Recipe Roadtrip
+* The Strongest Man in History
+* Mythbusters
+* Taskmaster
 
 ## Music
 * <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">This</a> playlist for some selected variety in my listening.
@@ -143,59 +261,6 @@ Most of the channels I list here are good even if the content I describe doesn't
 
 * Bughouse - team chess; admittedly the set of people for whom this is a good rec, and who also haven't played it is probably empty
 
-## TV Shows
-I often watch TV shows (or listen to them using Netflix audio descriptions) while doing other things.
-### Comedy
-* Brooklyn Nine-Nine - If you like sitcoms, this should be at the top of your list.
-* Nathan for you/The Rehearsal - Two of my favorite shows on this page. In the former, Nathan Fielder gives 'unorthodox' marketing ideas to small businesses. The latter is a ride of it's own.
-* Bojack Horseman - Dark, depressing, witty satire. 
-* Crazy Ex-Girlfriend - A lighthearted musical romcom/satire. The musical element to the show works surprisingly well.
-* 30 Rock - A lighthearted sitcom by Tina Fey and Donald Glover.
-* Ted Lasso - My favorite currently-running sitcom. Jason Sudeikis is well-revered American football coach who's hired to be manager of a British football (soccer) team.
-* Schitt's Creek - lighthearted sitcom/drama. I didn't love this show as much as some people, but for people who are big into sitcoms like modern family, friends, and the like; this is one of the better recent ones IMO.
-
-* How To with John Wilson - Executive Produced by Nathan Fielder, similar-ish in style to the other two shows.
-
-### Drama
-* Master of None - A romantic comedy drama. I really love this show (at least seasons 1-2); give it a try if you're looking for something lighthearted.
-* Breaking Bad/Better Call Saul - Both dark, but very engaging. If you've seen Breaking Bad and liked it but haven't tried Better Call Saul, you should.
-* The Queen's Gambit - Coming-of-age/historical drama. I'm biased here, but hard to argue with the 96% on Rotten Tomatoes. The scenary in the show is particularly entrancing. Some small overdramatizations when it comes to the chess, but not as egregious as most media of its kind.
-* Atlanta - Cerebral drama. Donald Glover is a manager for his cousin trying to make it in the Atlanta rap game. This show certainly tries to do a lot; I won't say much more, but it certainly takes you for a (progressively trippier) ride.
-* Barry - dark comedy drama. Bill Hader is a depressed hitman who ends up taking acting classes.
-* Patriot - dark comedy drama. John is a depressed but competent undercover agent. 
-* Fleabag - dry comedy drama. If you like british comedy, this is a short series you'll probably enjoy.
-* The Leftovers - sci-fi drama. I've seen a lot of sci-fi/dystopian dramas and this was definitely one of the better ones. Took me a couple episodes to get into it.
-* Game of Thrones - I waited until the last season was airing to watch this show, so I wasn't very excited for it. I think that it wasn't really my type of show, but I still liked it. If you've held out watching it and don't mind some blood/gore, there's a reason why it was everywhere for 8 years.
-* House of Cards - An intricate political drama. One of those shows where if you pay attention, there are some big payoffs. I think the first couple seasons are the best. No longer a Spacey fan, this is just a rec for the show.
-* Community - A classic sitcom. If you're a sitcom person and you like other sitcoms on this list, here you go.
-
-### Action/Adventure
-* Daredevil - I watched the MCU shows so you don't have to. This is the best one; if you need to watch one more, I'd recommend Jessica Jones.
-* Legion - Okay this is a psychological thriller, but still a superhero series! I don't remember much about this show to be honest, but I wrote it on my recs list so if you want a superhero show it's probably not a bad pick.
-* Avatar the last Airbender/The Legend of Korra - Fantasy coming-of-age stories. If you like Avatar as a kid, Legend of Korra is similar but for slightly older audiences, and I enjoyed it a couple of years ago.
-* Stranger Things - sci-fi drama; I'm sure you've heard of it, but I'm listing it here anyway. Breakfast Club vibes.
-
-### Other
-* Black Mirror - Cerebral Anthology series. The episodes vary a lot in quality, in my opinion. I would start out with *White Christmas*, *Hated in the Nation*, and *San Junipero*.
-* McMillion$ - True docu-series about how the McDonald's Monopoly promotion was rigged by the mob
-* Chernobyl - Historical drama based on true events surrounding the Chernobyl Nuclear disaster. Not framed as a docu-series, as engaging as any fictional drama. Highly critically-acclaimed.
-* The Final Table - A cooking show with terrible reviews (? I didn't know this until I looked it up just now). I don't normally like/watch cooking shows, but I liked this one when I watched it. Maybe I just have bad taste...
-
-**Other shows I've enjoyed but for various reasons wouldn't go so far as to recommend**
-
-Sometimes grouped roughly by genre, but only kind of
-* The Office (US/UK), Parks and Recreation, The Good Place, Silicon Valley, The IT Crowd, Sneaky Pete, How I Met Your Mother
-* The Boys, The Handmaid's tale, The Walking Dead (first few seasons), The End of the F\*\*\*ing World, American Horror Story (seasons 1-3)
-* Doctor Who, Sherlock, Firefly
-* Rick and Morty
-* Dahmer
-* Death Note, Attack on Titan
-* Squid Game
-* Without a Recipe Roadtrip
-* The Strongest Man in History
-* Mythbusters
-* Taskmaster
-
 ## Apps
 * Obsidian - For taking notes on your phone
 * ColorNote - For taking notes on your phone, if Obsidian is too intimidating
@@ -214,73 +279,8 @@ Sometimes grouped roughly by genre, but only kind of
 * Buddha Bodai in Chinatown
 * Millburn Standard in Short Hills, NJ
 * Roka Akor in Chicago, IL
-
-## Habits
-### Write things down
-I do this on my phone in Obsidian, although for ~7 years I used ColorNote, which is simpler to use and normally sufficient.
-
-I think this is my best habit that most people don't have.
-* Miscellaneous - Keep a notes file on your phone where you write down any thoughts/ideas you have that you think are worth remembering. Things like: fun facts you learn, an app idea you have, a question you wish you knew the answer to, a puzzle someone gives you that you haven't solved. You can make more granular notes, but that adds work; I recommend at least one 'catch-all' file where you can write important things down as easily as possible.
-* Moment Journaling - I have an alarm for 11pm where every day I write down ~1-3 bullets (occasionally more) about the most important things that happened to me that day. I've tried journaling before and it's fallen off, but this is easy enough that I've kept up with it for over a year and I expect to keep doing it forever. It's easy for time to fly by, this helps you remember what's happened, and helps give you some context on how you've been changing over timme.
-* Logging Exercise - so you can more easily see progress/patterns over time, and have reference points for exercises you don't do super regularly. I do this in a notepad on my phone
-* At work: maintain a Google doc or other text file that you write down notes in so you can ctrl+f later. I keep a separate doc for programming so that I can search for syntax and other little things I've written down in the past.
-* Other note files I have on my phone include: Recs for Others, Recs from Others, Dreams, Gifts, Inspirational, Vacation/travel/date ideas, Think to Sleep (things to think about when trying to fall asleep).
-* Whenever I go to an event like a conference or long talk that I care about, I often make a dedicated note for it.
-  
-### Other Productivity
-* Multi-tasking with audio - Not for everyone, but I do lots of things (exercising, doing chores, mindless games, walking places) while listening to Netflix using their English with Audio Descriptions setting (they don't have this for every show, but for many including all Netflix original Series; Hulu and other services have also been adding this) podcasts, YouTube videos that don't have important video, or audiobooks. 
-* Look for podcast versions of things you'd otherwise read (ex. Astral Codex Ten Podcast on Spotify! Lesswrong Curated Podcast/Nonlinear library, etc.)
-* Get 2 of things that you'll probably get more of eventually anyway, or for things where having 2 is better. For example, getting a backup phone-charger in case you lose or break your existing one. Getting a backup pair of the earbuds you like using, especially if they're cheap and you often misplace them (you can do the cost-benefit of how much time you'd save from not-searching for a thing when you've lost it, when you'd randomly find it without searching later on). I have a second clothes hamper so that after doing my laundry, I don't[^1] put dirty clothes on the floor while the other one has clean clothes in it.
-* If you want to improve at something that involves motor skills, try doing it for short periods of time regularly. For example: improving typing skills, solving Rubik's cubes, juggling, or even exercises like pull-ups, push ups etc.
-* If you want to work through a textbook and solve problems, and you don't want to carry around/lose track of that work in various notebooks or sheets of paper, etc. I recommend using an iPad, where you can open a pdf or book etc. on half the screen and a note-taking app on the other half. I put pdf files on Google drive then import them to the native Books app, and use Notability (free) for note-taking. I considered alternatives like the Remarkable and other tablets, including a kindle that I bought (I like eink), but none of them had the functionality I wanted. See the exact iPad version I recommend/pencil/case in my items section.
-  
-### Other
-* Donating effectively - (page under construction)
-* Making bets as a way to hold yourself accountable - (page under construction)
-* Invest in Index funds - (page under construction)
-* If you watch Twitch streams but don't interact with chat, watching vods are great because you can skip around.
-
-## Items
-* <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
-* <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
-* <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
-* <a href="https://amzn.to/3E2FiK7">Miracle Fruit Tablets</a> - Like hallucinogenics for your taste-buds. <a href="https://www.youtube.com/watch?v=8O8WG0d9jaY&ab_channel=WeirdExplorer">Here's</a> a history and video-review of the fruit by a youtuber that I like. Pretty interesting.
-* Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
-* <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
-* <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
-* <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
-* <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
-* <a href="https://amzn.to/3sW69B4">Nishiki Rice</a> - I use this rice in my rice cooker, even though it's a little more expensive than other rice.
-* <a href="https://amzn.to/3FLDbvG">Zojirushi Water Boiler</a> - If you're a fan of Zojirushi products and you often make tea or pasta, this water boiler keeps you almost-boiling water available immediately all the time. If you like making pasta, having one of these speeds up the process considerably. Science point - you leave this plugged in all the time, but it doesn't take tons of extra energy to do so, since you basically just have to heat up the water and keep it relatively insulated, then it just takes a little bit of energy to keep it hot! Credit to Adam Canady for recommending this to me in the context of efficient-pasta-making.
-* <a href="https://amzn.to/3U5ZnF2">De Cecco Penne Pasta (12 lbs)</a> - Speaking of efficient-pasta-making, I buy this De Cecco penne in bulk and store it in my closet. It's very cheap per meal and makes amazing pasta. I make a lot of it at once and store it in my fridge with a little olive oil, then use different pasta sauces for each leftover meal and it's great.
-* <a href="https://amzn.to/3U02Wwp">Brita Filter faucet attachment</a> - I pretty stronger prefer carbon-filtered water. Brita filters are kind of annoying to refill constantly; this faucet attachment gives you nicely filtered water on tap.
-* Computer Wrist Rest - I like <a href="https://amzn.to/3T8Sp0u">this one</a>, but probably other ones are good. Makes a noticable difference on the strain I get from using my computer for long periods of time.
-* <a href="https://amzn.to/3U9hxWj">Quaker Simply Granola Oats</a> - I like this granola in greek yogurt.
-* <a href="https://amzn.to/3FGKfcS">Keyboard: Leopold FC980C 30g (Compact Topre Switches)</a> - Obviously very expensive keyboard, but I own a few mechanical keyboards and this one is by far my favorite. The keys are very light and it's very satisfying to type on. If you're a keyboard enthusiast,  consider giving it a try.
-* <a href="https://amzn.to/3WyBLKD">Blood Type Kit</a> - I didn't know my blood type, now I do[^2], and you can too!
-* <a href="https://amzn.to/3h25uvg">Tournament Chess Set</a> - If you play chess but don't have a set, I recommend getting this one, and not a cheaper knock-off from Amazon. I bought a set that looked just like this on the item page, but then it was unexpectedly 3/4th size. I have 2 sets for bughouse.
-* <a href="https://amzn.to/3WpN0oK">Outlet splitter</a> - Never run out of outlets ever again.
-* <a href="https://amzn.to/3DDEfz1">CeraVe Moisturizing Lotion for Itch Relief</a> - I normally hate the feeling of oily lotion and related things, but I occasionally get itchy dry skin on my elbow, and this is by far the best thing for it out of everything I tried, both for relief and for recovery.
-* <a href="https://amzn.to/3h91byq">Blistex lip ointment</a> - If you ever get chapped lips in the winter, this stuff is just way better than anything else I've used. I put on a little bit of this and chapstick on top of it and my lips get unchapped very quickly.
-* <a href="https://amzn.to/3E2OjTv">Microwave Cover</a> - If you microwave things, and they splatter, you can use this to save yourself some cleaning.
-* <a href="https://amzn.to/3U9jWQP">Shower Curtain Weights</a> - If your shower curtain gets sucked in and sticks to you when you shower (Bernoulli's principle!), you can get these weights to help.
-* <a href="https://amzn.to/3zLAHti">T-Shirts for Men</a> - I really like these tees. They're comfy, have a good fit/cut, are pretty cheap, and are plain in nice colors. (They also make <a href="https://amzn.to/3t6uNPv">shirts for women,</a> but I can't personally vouch for their quality.)
-* <a href="https://amzn.to/3WweMA3">Comfy towel set</a> - I use these towels and I think they're very comfy.
-* <a href="https://amzn.to/3sYwfn0">OWYN Chocolate Protein Shakes (vegan)</a> - By far the best vegan protein shakes I've ever had. They're a little expensive, but other vegan protein powder/shakes I've tried are just much worse.
-* <a href="https://amzn.to/3Wwr7nO">Balega Socks</a> - Maybe you have no need for very nice socks, but if you do (and are willing to pay $20 for a pair of socks), these are really comfy socks. I bought ~10 different specialty sock brands (mostly catered to runners), and these were clearly the best.
-* <a href="https://amzn.to/3E1t4kN">Used Apple iPad Pro 12.9-in. 3rd generation</a> - This is the only Apple product I've purchased for myself, I'm an Android/Windows guy. That said, after much research, it's just clearly the best tool for reading e-textbooks while also taking notes side-by-side. For most use-cases, the Pro 12.9-in. 3rd generation is the model you want. You can get it used for relatively cheap, and the models have not improved by much since then.
-* <a href="https://amzn.to/3E1DPni">Apple Pencil (2nd gen)</a> - For note-taking while reading etc. I initially got a knock-off Apple pencil for $30, but it's much less consistent syncing/randomly disconnects and has worse battery-life, so maybe actually get a regular one.
-* <a href="https://amzn.to/3TmCEn7">iPad Case</a> - This is a really good/cheap case. Has space for the pencil, and it's very easy to take out of the spot. The charger-hole works well (some other cases are surprisingly bad at this).
-* <a href="https://amzn.to/3fEbQ3N">Collapsible Laundry Hamper</a> - I have 2 copies of this $7 hamper.
-* <a href="https://amzn.to/3FIX6er">GAN 11 M Pro, 3x3 Magnetic Speed Cube</a> - This is basically the best Rubik's cube. Also expensive (cheaper GAN models are also probably good), but if you decide you want to speed cube, it's the one to get. One friend I recommended it to cut 25% off his time by using it instead of his old cube.
-* <a href="https://amzn.to/3FGOHIC">'Greenies' Dog Treats</a> - These are my dog's favorite treats. He begs for them every evening at the same time. He's addicted.
-* <a href="https://amzn.to/3WACHy8">Shoe Balancer/Leveler</a> - If you ever injure your foot/ankle and need to use a medical boot, wearing one of these on your other shoe will balance out your height. Actually made a huge quality-of-life difference for me.
-* <a href="https://amzn.to/3DBEMl2">Digital Bathroom Scale</a> - If you're trying to build muscle or diet, it's helpful to have a scale for a feedback mechanism. I'm sure basically any such scale is good; I just know this one works.
-* <a href="https://amzn.to/3G3sO6D">Ice Cream Scoop</a> - Instead of bending your spoons and hurting your palm, this pointy ice-cream scoop works well.
-* <a href="https://amzn.to/3E4prLg">Groove Belt</a> - A stretchy stylish(?) belt that's very adjustable and made from nylon and aluminum.
-* <a href="https://amzn.to/3T93ZJ0">JBL Flip Speaker</a> - Surprisingly loud waterproof speaker. Great for listening to things in the shower, outside, for a party, etc.
  
-## Other
+## Miscellaneous
 * Escape Rooms - Sometimes I think: "What's a good random thing to do today, where I have nothing planned but people who I should _do a thing_ with?" A couple times when I've had this thought, we've done an escape room, and it's never felt like a mistake. 
 * Consider using a laundry service. If you dislike doing laundry/find it inconvenient/live somewhere services are cheap especially. It's like $15 per load of laundry where I live, and they even fold it for you. If you aren't used to doing cost/benefit calculations, here's your practice problem.
 * YouTube Premium - If you're like me and watch a lot of YouTube videos, you probably also watch a lot of YouTube ads. Youtube premium is $10/month ($7 for students, $23 for a 5-member family plan, and free for the first 3 months, at least when I'm writing this), so you can do the math on expected-time-saved vs. cost and decide if it's worth it for you.
