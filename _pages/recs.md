@@ -8,7 +8,8 @@ redirect_from:
 ---
 <a href="https://dmavrides.github.io/_pages/recs/#write-things-down">This</a> is the most important recommendation on this page. 
 
-<a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's a YouTube playlist</a> containing a couple videos from some of of my favorite channels (described below). There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a somewhat-curated variety of music/artists I like.
+<a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's a YouTube playlist</a> containing a couple videos from some of of my favorite channels (described below). 
+There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a somewhat-curated variety of music/artists I like.
 
 Please send me recommendations of your own!
 {% include toc %}
