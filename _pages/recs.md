@@ -288,4 +288,4 @@ I think this is my best habit that most people don't have.
 * Converting youtube videos to .mp3 - If you edit a youtube url by adding 'pi' after the 'youtube' (i.e. https://www.youtube.com/watch?v=dQw4w9WgXcQ becomes https://www.youtubepi.com/watch?v=dQw4w9WgXcQ ) it takes you to a website where you can download the video or the audio from the video. I've found this useful for downloading covers of songs that I like so I can then add them to Spotify or my phone or whatever. Similar for youtube videos that are basically podcasts, etc.
 
   [^1]: Okay fine, less frequently
-  [^2]: I'm A+. I've heard of nominative determinism, but not blood-type-determinism!
+  [^2]: I'm A+. I've heard of nominative determinism, but not blood-type-determinism
