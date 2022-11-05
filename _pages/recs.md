@@ -38,7 +38,7 @@ I think this is my best habit that most people don't have.
 * Invest in Index funds - (page under construction)
 * If you watch Twitch streams but don't interact with chat, watching vods are great because you can skip around.
 
-## Items
+## Items/Purchases
 * <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
 * <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
 * <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
