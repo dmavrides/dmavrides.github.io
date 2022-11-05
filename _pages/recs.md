@@ -29,7 +29,7 @@ Some of the recs here are a little niche, or rely on context/knowledge from vari
 * Nick Bostrom's writings - <a href="https://nickbostrom.com/fable/dragon">The Fable of the Dragon-Tyrant</a>
 
 ### Comics
-* XKCD - Surprising if you haven't heard of XKCD. Oft-vaguely-science-related comics. Also neat observations about the world, for example <a href="https://xkcd.com/1053/">"The Lucky 10000"</a>.
+* XKCD - Oft-vaguely-science-related comics. Also neat observations about the world, for example <a href="https://xkcd.com/1053/">"The Lucky 10000"</a>.
 * The Oatmeal - Okay fine, I really just like <a href="https://theoatmeal.com/comics/running">this mini-series on running.</a>
 
 ## Games
