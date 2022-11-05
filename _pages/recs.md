@@ -8,7 +8,7 @@ redirect_from:
 ---
 <a href="https://dmavrides.github.io/_pages/recs/#write-things-down">This</a> is the most important recommendation on this page. 
 
-<a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's</a> a YouTube playlist containing a couple videos from a bunch of my favorite channels. There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a selected variety of music/artists I like.
+<a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's a YouTube playlist</a> containing a couple videos from some of of my favorite channels (described below). There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a selected variety of music/artists I like.
 {% include toc %}
 Please send me recommendations of your own!
 
@@ -190,9 +190,10 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Free Solo - Movie about Alex Honnald, a rock climber who wants to 'Free Solo' the most spectacular rock-climbing route in the world; a mountain face in Yellowstone called El Capitan.
 
 ## Music
-* I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR, but have a lot of variety in what I listen to.
-* <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">This</a> playlist for some selected variety in my listening through 2019.
+* <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">This</a> playlist for some selected variety in my listening.
+* <a href="https://open.spotify.com/playlist/4CrqNZ93pGwEN1Nk1UZB2F?si=e392a54dca924996">This</a> playlist for a lot of the music I listened to up through 2019 (largely expanded version of the above playlist).
 * <a href="https://open.spotify.com/playlist/01d7gwRG1W0yyVNc5xTdFT">This</a> playlist for some chronologically-added songs since 2019.
+* I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR. but have a lot of variety in what I listen to.
 
 ## Apps
 * Obsidian - For taking notes on your phone
