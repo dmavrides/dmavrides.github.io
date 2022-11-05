@@ -14,8 +14,8 @@ Here are some things contained on this website:
 (these mostly currently under construction)
 * Information about my <a href="https://dmavrides.github.io/portfolio/">academic/professional life</a>
 * Information about my <a href="https://dmavrides.github.io/personal/">personal life</a>
-* A collection of <a href="https://dmavrides.github.io/recs/">recommendations</a> of various kinds
-* A collection of <a href="https://dmavrides.github.io/year-archive/">blog posts</a> and <a href="https://dmavrides.github.io/thoughts/">shorter-form thoughts</a>
+* An extensive collection of <a href="https://dmavrides.github.io/recs/">recommendations</a> of various kinds
+* A collection of <a href="https://dmavrides.github.io/year-archive/">blog posts</a> and <a href="https://dmavrides.github.io/thoughts/">shorter-form thoughts</a> (both under construction)
 
 You can reach me at dylan dot mavrides at gmail
 You can leave me anonymous feedback of any kind <a href="https://www.admonymous.co/dmavrides">here</a>
