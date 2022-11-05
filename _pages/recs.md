@@ -6,6 +6,9 @@ redirect_from:
   - /recs/
   - /recs.html
 ---
+<a href="https://dmavrides.github.io/_pages/recs/#write-things-down">This</a> is the most important recommendation on this page. 
+
+<a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's</a> a YouTube playlist containing a couple videos from a bunch of my favorite channels. There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a selected variety of music/artists I like.
 {% include toc %}
 Please send me recommendations of your own!
 
@@ -118,6 +121,8 @@ Sometimes grouped roughly by genre, but only kind of
 * Taskmaster
 
 ## YouTube Channels/Videos
+If you just want the videos, <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">here's a youTube playlist</a> I made that's (probably mostly) synced with the below recs list. <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjxOqsXi68qX_QeFJgPmYA-z">Here's</a> a playlist with videos I might add to the original list, but haven't yet added.
+
 Most of the channels I list here are good even if the content I describe doesn't sound interesting; consider giving them a try even if the description doesn't excite you. (Except some of the math/chess/climbing ones are a bit niche/I admit I'm biased here, so it's harder to tell.)
 * Weird Explorer - Guy travels the world trying every kind of fruit he can find. I don't eat much fruit but love this channel anyway. <a href="https://www.youtube.com/watch?v=GqicsIDYmgU&list=PLvGFkMrO1ZxJR98H4XiJP5ABIzdmx136n&ab_channel=WeirdExplorer">Coco de Mer: My Hunt for the Tree of Knowledge</a>, <a href="https://www.youtube.com/watch?v=agnuTbXuXu0&ab_channel=WeirdExplorer">Cloudberry: My Hunt For One Of The World's Most Elusive Fruits</a>
 * Jan Misali - Random videos, some related to linguistics. <a href="https://www.youtube.com/watch?v=le5uGqHKll8&t=983s&ab_channel=janMisali">hangman is a weird game</a>, <a href="https://www.youtube.com/watch?v=sg2j7mZ9-2Y&ab_channel=janMisali">w</a>
@@ -138,7 +143,7 @@ Most of the channels I list here are good even if the content I describe doesn't
 * Mathologer - Discussing mathematical puzzles and famous problems somewhat accessibly. <a href="https://www.youtube.com/watch?v=CaasbfdJdJg&t=46s&ab_channel=Mathologer">Infinite fractions and the most irrational number</a>, <a href="https://www.youtube.com/watch?v=O1sPvUr0YC0&t=1083s&ab_channel=Mathologer">Why is doubling cubes and squaring circles impossible?"</a> a video that explains how a couple famous problems work, without teaching you a semester of Galois theory (some of his videos more for people interested in math at an advanced high-school or early undergraduate level).
 * Geek Climber - "Average Guy" learns various calisthetics/gives himself climbing challenges. <a href="https://www.youtube.com/watch?v=2wuA-BpWBtc&ab_channel=GeekClimber">This Average Guy Learns the Handstand in 156 days</a>, <a href="https://www.youtube.com/watch?v=Lj4h6XrizJA&ab_channel=GeekClimber">Guy Who Can't Jump Trains 30 Days to Improve His Vertical</a>
 * Rare Earth - Traveler narrates interesting stories from history. <a href="https://www.youtube.com/watch?v=wOGuZnYY_2w&ab_channel=RareEarth">When 2000lbs of Cocaine Washed Up in a Small Town</a>, <a href="https://www.youtube.com/watch?v=-BIA4dgAJ9A&t=878s&ab_channel=RareEarth">The CIA's Secret Genocide in Guatemala</a>
-* Veritasium - I'd be surprised if you're reading this blog and don't know about Veritasium, but here are a couple good videos, if you haven't seen them. <a href="https://www.youtube.com/watch?v=ZMByI4s-D-Y&ab_channel=Veritasium">World's Roundest Object!</a>, <a href="https://www.youtube.com/watch?v=IV3dnLzthDA&t=24s&ab_channel=Veritasium">The Man Who Accidentally Killed The Most People In History</a>, <a href="https://www.youtube.com/watch?v=t-_VPRCtiUg&t=468s&ab_channel=Veritasium">The Surprising Secret of Synchronization</a>
+* Veritasium - I'd be surprised if you're reading this blog and don't know about Veritasium, but here are a couple good videos, if you haven't seen them. <a href="https://www.youtube.com/watch?v=ZMByI4s-D-Y&ab_channel=Veritasium">World's Roundest Object!</a>, <a href="https://www.youtube.com/watch?v=IV3dnLzthDA&t=24s&ab_channel=Veritasium">The Man Who Accidentally Killed The Most People In History</a>, <a href="https://www.youtube.com/watch?v=t-_VPRCtiUg&t=468s&ab_channel=Veritasium">The Surprising Secret of Synchronization</a>, <a href="https://www.youtube.com/watch?v=nmgFG7PUHfo&ab_channel=Veritasium">The Most Important Algorithm of All Time</a>
 * Steve Mould - Explanations of scientific phenomena. <a href="https://www.youtube.com/watch?v=DkaJ6iK2CJc&t=642s&ab_channel=SteveMould">I Can Twist My Eye Around Its Pupil (And So Can You)</a>, <a href="https://www.youtube.com/watch?v=Cg73j3QYRJc&t=115s&ab_channel=SteveMould">The Spring Paradox</a>
 * Soft White Underbelly - Videographer interviews drug users, criminals, and various other people who live on the edge of society. (Insert content warnings of basically every kind.) <a href="https://www.youtube.com/watch?v=g6igTJXcqvo&ab_channel=SoftWhiteUnderbelly">Hacker Interview-Gummo</a>, <a href="https://www.youtube.com/watch?v=l9Z1uTX7z58&ab_channel=SoftWhiteUnderbelly">Functional Heroin Addict interview-Matthew</a>, <a href="https://www.youtube.com/watch?v=2DfGSeylQ5o&t=859s&ab_channel=SoftWhiteUnderbelly">Shooting Victim-Jerry</a>
 * The Try Guys - Lighthearted videos of ~4 guys trying to do various things. In particular, I like <a href="https://www.youtube.com/watch?v=V4Uuxg6jmbo&list=PL9qQXSjI-WOqgtYxpBlrJn8d__xzzb8mN&ab_channel=BuzzFeedVideo">Without A Recipe</a>
@@ -154,7 +159,7 @@ Most of the channels I list here are good even if the content I describe doesn't
 
 ## Movies
 ### Cerebral/Thriller
-* Parasite - A poor family cons a wealthy family. First non-English-language film to win the Oscar for Best Picture.
+* Parasite - A poor family Korean family concocts a scheme to con a wealthy family. First non-English-language film to win the Oscar for Best Picture.
 * Memento - A Christopher Nolan nonlinear-mystery where the main man has anterograde amnesia.
 * Ex Machina - This Bladerunner-esque film explores artificial intelligence and what it means to be human.
 * Mr. Nobody - Tells the life-story of the last mortal man on earth.
@@ -190,9 +195,14 @@ Most of the channels I list here are good even if the content I describe doesn't
 * <a href="https://open.spotify.com/playlist/01d7gwRG1W0yyVNc5xTdFT">This</a> playlist for some chronologically-added songs since 2019.
 
 ## Apps
-* Obsidian + syncing apps
-* Night Owl
-* ZocDoc
+* Obsidian - For taking notes on your phone
+* ColorNote - For taking notes on your phone, if Obsidian is too intimidating
+* GP IO for playing Set on your phone
+* Night Owl - For making your screen brightness even lower than the usual-lowest setting (including on apps like the Netflix app, which otherwise annoyingly overrides your screen brightness settings sometimes)
+* Movie Timer - This app will auto-lock your phone after some period of time. If I'm watching a Netflix show or listening to a podcast/video/playlist while falling asleep, I use this app to help keep my place/so that the playlist doesn't autoplay through many hours.
+* B-Unit - If you work in finance and use Bloomberg, use this app to deprecate the stupid low-quality thumb scanner thingy
+* ZocDoc - If you're young, moved to a new city, and don't know how to find doctors or make appointments, use this app to Become A Real Adult^TM^
+* Strava - For tracking jogging/movement-related exercise
 
 ## Restaurants
 <!-- link the locations or websites -->
@@ -225,18 +235,43 @@ I think this is my best habit that most people don't have.
 * Invest in Index funds - (page under construction)
 
 ## Items
-  * <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
-  * <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
-  * <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
+* <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
+* <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
+* <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
+* <a href="https://amzn.to/3E2FiK7">Miracle Fruit Tablets</a> - Like hallucinogenics for your taste-buds. <a href="https://www.youtube.com/watch?v=8O8WG0d9jaY&ab_channel=WeirdExplorer">Here's</a> a history and video-review of the fruit by a youtuber that I like. Pretty interesting.
 * Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
-  * <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
-  * <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
-  * <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
-  * <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
-  * <a href="https://amzn.to/3sW69B4">Nishiki Rice</a> - I use this rice in my rice cooker, even though it's a little more expensive than other rice.
-  * <a href="https://amzn.to/3FLDbvG">Zojirushi Water Boiler</a> - If you're a fan of Zojirushi products and you often make tea or pasta, this water boiler keeps you almost-boiling water available immediately all the time. If you like making pasta, having one of these speeds up the process considerably. Science point - you leave this plugged in all the time, but it doesn't take tons of extra energy to do so, since you basically just have to heat up the water and keep it relatively insulated, then it just takes a little bit of energy to keep it hot! Credit to Adam Canady for recommending this to me in the context of efficient-pasta-making.
-  * <a href="https://amzn.to/3U5ZnF2">De Cecco Penne Pasta (12 lbs)</a> - Speaking of efficient-pasta-making, I buy this De Cecco penne in bulk and store it in my closet. It's very cheap per meal and makes amazing pasta. I make a lot of it at once and store it in my fridge with a little olive oil, then use different pasta sauces for each leftover meal and it's great.
-  
+* <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
+* <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
+* <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
+* <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
+* <a href="https://amzn.to/3sW69B4">Nishiki Rice</a> - I use this rice in my rice cooker, even though it's a little more expensive than other rice.
+* <a href="https://amzn.to/3FLDbvG">Zojirushi Water Boiler</a> - If you're a fan of Zojirushi products and you often make tea or pasta, this water boiler keeps you almost-boiling water available immediately all the time. If you like making pasta, having one of these speeds up the process considerably. Science point - you leave this plugged in all the time, but it doesn't take tons of extra energy to do so, since you basically just have to heat up the water and keep it relatively insulated, then it just takes a little bit of energy to keep it hot! Credit to Adam Canady for recommending this to me in the context of efficient-pasta-making.
+* <a href="https://amzn.to/3U5ZnF2">De Cecco Penne Pasta (12 lbs)</a> - Speaking of efficient-pasta-making, I buy this De Cecco penne in bulk and store it in my closet. It's very cheap per meal and makes amazing pasta. I make a lot of it at once and store it in my fridge with a little olive oil, then use different pasta sauces for each leftover meal and it's great.
+* <a href="https://amzn.to/3U02Wwp">Brita Filter faucet attachment</a> - I pretty stronger prefer carbon-filtered water. Brita filters are kind of annoying to refill constantly; this faucet attachment gives you nicely filtered water on tap.
+* Computer Wrist Rest - I like <a href="https://amzn.to/3T8Sp0u">this one</a>, but probably other ones are good. Makes a noticable difference on the strain I get from using my computer for long periods of time.
+* <a href="https://amzn.to/3U9hxWj">Quaker Simply Granola Oats</a> - I like this granola in greek yogurt.
+* <a href="https://amzn.to/3FGKfcS">Keyboard: Leopold FC980C 30g (Compact Topre Switches)</a> - Obviously very expensive keyboard, but I own a few mechanical keyboards and this one is by far my favorite. The keys are very light and it's very satisfying to type on. If you're a keyboard enthusiast,  consider giving it a try.
+* <a href="https://amzn.to/3WyBLKD">Blood Type Kit</a> - I didn't know my blood type, now I do[^2], and you can too!
+* <a href="https://amzn.to/3h25uvg">Tournament Chess Set</a> - If you play chess but don't have a set, I recommend getting this one, and not a cheaper knock-off from Amazon. I bought a set that looked just like this on the item page, but then it was unexpectedly 3/4th size. I have 2 sets for bughouse.
+* <a href="https://amzn.to/3WpN0oK">Outlet splitter</a> - Never run out of outlets ever again.
+* <a href="https://amzn.to/3DDEfz1">CeraVe Moisturizing Lotion for Itch Relief</a> - I normally hate the feeling of oily lotion and related things, but I occasionally get itchy dry skin on my elbow, and this is by far the best thing for it out of everything I tried, both for relief and for recovery.
+* <a href="https://amzn.to/3h91byq">Blistex lip ointment</a> - If you ever get chapped lips in the winter, this stuff is just way better than anything else I've used. I put on a little bit of this and chapstick on top of it and my lips get unchapped very quickly.
+* <a href="https://amzn.to/3E2OjTv">Microwave Cover</a> - If you microwave things, and they splatter, you can use this to save yourself some cleaning.
+* <a href="https://amzn.to/3U9jWQP">Shower Curtain Weights</a> - If your shower curtain gets sucked in and sticks to you when you shower (Bernoulli's principle!), you can get these weights to help.
+* <a href="https://amzn.to/3zLAHti">T-Shirts for Men</a> - I really like these tees. They're comfy, have a good fit/cut, are pretty cheap, and are plain in nice colors. (They also make <a href="https://amzn.to/3t6uNPv">shirts for women,</a> but I can't personally vouch for their quality.)
+* <a href="https://amzn.to/3WweMA3">Comfy towel set</a> - I use these towels and I think they're very comfy.
+* <a href="https://amzn.to/3sYwfn0">OWYN Chocolate Protein Shakes (vegan)</a> - By far the best vegan protein shakes I've ever had. They're a little expensive, but other vegan protein powder/shakes I've tried are just much worse.
+* <a href="https://amzn.to/3Wwr7nO">Balega Socks</a> - Maybe you have no need for very nice socks, but if you do (and are willing to pay $20 for a pair of socks), these are really comfy socks. I bought ~10 different specialty sock brands (mostly catered to runners), and these were clearly the best.
+* <a href="https://amzn.to/3E1t4kN">Used Apple iPad Pro 12.9-in. 3rd generation</a> - This is the only Apple product I've purchased for myself, I'm an Android/Windows guy. That said, after much research, it's just clearly the best tool for reading e-textbooks while also taking notes side-by-side. For most use-cases, the Pro 12.9-in. 3rd generation is the model you want. You can get it used for relatively cheap, and the models have not improved by much since then.
+* <a href="https://amzn.to/3E1DPni>Apple Pencil (2nd gen)</a> - For note-taking while reading etc. I initially got a knock-off Apple pencil for $30, but it's much less consistent syncing/randomly disconnects and has worse battery-life, so maybe actually get a regular one.
+* <a href="https://amzn.to/3TmCEn7">iPad Case</a> - This is a really good/cheap case. Has space for the pencil, and it's very easy to take out of the spot. The charger-hole works well (some other cases are surprisingly bad at this).
+* <a href="https://amzn.to/3fEbQ3N">Collapsible Laundry Hamper</a> - I have 2 copies of this $7 hamper.
+* <a href="https://amzn.to/3FIX6er'>GAN 11 M Pro, 3x3 Magnetic Speed Cube</a> - This is basically the best Rubik's cube. Also expensive (cheaper GAN models are also probably good), but if you decide you want to speed cube, it's the one to get. One friend I recommended it to cut 25% off his time by using it instead of his old cube.
+* <a href="https://amzn.to/3FGOHIC">'Greenies' Dog Treats</a> - These are my dog's favorite treats. He begs for them every evening at the same time. He's addicted.
+* <a href="https://amzn.to/3WACHy8">Shoe Balancer/Leveler</a> - If you ever injure your foot/ankle and need to use a medical boot, wearing one of these on your other shoe will balance out your height. Actually made a huge quality-of-life difference for me.
+* <a href="https://amzn.to/3G3sO6D">Ice Cream Scoop</a> - Instead of bending your spoons and hurting your palm, this pointy ice-cream scoop works well.
+* <a href="https://amzn.to/3E4prLg">Groove Belt</a> - A stretchy stylish(?) belt that's very adjustable and made from nylon and aluminum.
+ 
 ## Other
 * Escape Rooms - Sometimes I think: "What's a good random thing to do today, where I have nothing planned but people who I should _do a thing_ with?" A couple times when I've had this thought, we've done an escape room, and it's never felt like a mistake. 
 * Consider using a laundry service. If you dislike doing laundry/find it inconvenient/live somewhere services are cheap especially. It's like $15 per load of laundry where I live, and they even fold it for you. If you aren't used to doing cost/benefit calculations, here's your practice problem.
@@ -244,3 +279,4 @@ I think this is my best habit that most people don't have.
   
 
   [^1]: Okay fine, less frequently
+  [^2]: I'm A+. I've heard of nominative determinism, but not blood-type-determinism!
