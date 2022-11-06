@@ -32,6 +32,8 @@ I think this is my best habit that most people don't have.
 * Get 2 of things that you'll probably get more of eventually anyway, or for things where having 2 is better. For example, getting a backup phone-charger in case you lose or break your existing one. Getting a backup pair of the earbuds you like using, especially if they're cheap and you often misplace them (you can do the cost-benefit of how much time you'd save from not-searching for a thing when you've lost it, when you'd randomly find it without searching later on). I have a second clothes hamper so that after doing my laundry, I don't[^1] put dirty clothes on the floor while the other one has clean clothes in it.
 * If you want to improve at something that involves motor skills, try doing it for short periods of time regularly. For example: improving typing skills, solving Rubik's cubes, juggling, or even exercises like pull-ups, push ups etc.
 * If you want to work through a textbook and solve problems, and you don't want to carry around/lose track of that work in various notebooks or sheets of paper, etc. I recommend using an iPad, where you can open a pdf or book etc. on half the screen and a note-taking app on the other half. I put pdf files on Google drive then import them to the native Books app, and use Notability (free) for note-taking. I considered alternatives like the Remarkable and other tablets, including a kindle that I bought (I like eink), but none of them had the functionality I wanted. See the exact iPad version I recommend/pencil/case in my items section.
+* Autohotkey - For windows; lets you program keyboard shortcuts to do things on your computer with buttom combinations. 
+* Learn to type quickly - If you type under 70wpm or ever feel like it's a bottleneck, or if you just want to typing to feel a little nicer, I recommend learning to type correctly. I used to type with only 4 fingers and 1 thumb but taught myself to type correctly using <a href="https://www.keybr.com/">keybr.com</a>. They start you off by giving you common letter-arrangements using only a limited set of characters, then add in characters as you master the existing list. If you start to do badly with any particular character, they upweight the frequency that it occurs. Once you've learned to type all the letters there, I recommend using <a href="https://play.typeracer.com/">typeracer.com</a> to practice typing actual english sentences. It's also fun to race your friends.
   
 ### Other
 * Donating effectively - (page under construction)
@@ -75,7 +77,7 @@ I think this is my best habit that most people don't have.
 * <a href="https://amzn.to/3E1DPni">Apple Pencil (2nd gen)</a> - For note-taking while reading etc. I initially got a knock-off Apple pencil for $30, but it's much less consistent syncing/randomly disconnects and has worse battery-life, so maybe actually get a regular one.
 * <a href="https://amzn.to/3TmCEn7">iPad Case</a> - This is a really good/cheap case. Has space for the pencil, and it's very easy to take out of the spot. The charger-hole works well (some other cases are surprisingly bad at this).
 * <a href="https://amzn.to/3fEbQ3N">Collapsible Laundry Hamper</a> - I have 2 copies of this $7 hamper.
-* <a href="https://amzn.to/3FIX6er">GAN 11 M Pro, 3x3 Magnetic Speed Cube</a> - This is basically the best Rubik's cube. Also expensive (cheaper GAN models are also probably good), but if you decide you want to speed cube, it's the one to get. One friend I recommended it to cut 25% off his time by using it instead of his old cube.
+* <a href="https://amzn.to/3FIX6er">GAN 11 M Pro, 3x3 Magnetic Speed Cube</a> - This is basically the best Rubik's cube. Also expensive (cheaper GAN models are also probably good), but if you decide you want to speed cube and have the spare money, it's the one to get. <a href="https://dmavrides.github.io/_pages/cubing/">Here's my short page</a> on learning to solve a Rubik's cube and then how to get faster.
 * <a href="https://amzn.to/3FGOHIC">'Greenies' Dog Treats</a> - These are my dog's favorite treats. He begs for them every evening at the same time. He's addicted.
 * <a href="https://amzn.to/3WACHy8">Shoe Balancer/Leveler</a> - If you ever injure your foot/ankle and need to use a medical boot, wearing one of these on your other shoe will balance out your height. Actually made a huge quality-of-life difference for me.
 * <a href="https://amzn.to/3DBEMl2">Digital Bathroom Scale</a> - If you're trying to build muscle or diet, it's helpful to have a scale for a feedback mechanism. I'm sure basically any such scale is good; I just know this one works.
@@ -246,7 +248,7 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 ## Games
 ### Video Games
 * Baba Is You - Puzzle Game
-* BeatSaber - Guitar Hero but in VR
+* BeatSaber - Guitar Hero but in VR. <a href="https://dmavrides.github.io/_pages/beatsaber_recs/">My beatsaber recs/bookmarks</a>.
 * Celeste - Cute platformer with good music, calming & optimistic vibes.
 * Storybook Brawl - Auto battler that I personally enjoy
 * Lichess.org over Chess.com
@@ -290,7 +292,6 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 * B-Unit - If you work in finance and use Bloomberg, use this app to deprecate the stupid low-quality thumb scanner thingy
 * ZocDoc - If you're young, moved to a new city, and don't know how to find doctors or make appointments, use this app to Become A Real Adult<sup>TM</sup>
 * Strava - For tracking jogging/movement-related exercise
-* Autohotkey - For windows; lets you program keyboard shortcuts to do things on your computer with buttom combinations. 
 
 ## Restaurants
 <!-- link the locations or websites -->
