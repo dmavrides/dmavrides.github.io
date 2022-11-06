@@ -38,11 +38,13 @@ I think this is my best habit that most people don't have.
 * Making bets as a way to hold yourself accountable - (page under construction)
 * Invest in Index funds - (page under construction)
 * If you watch Twitch streams but don't interact with chat, watching vods are great because you can skip around.
+* If your morning rest is disturbed by light coming in through your windows - even with blackout curtains - consider taping aluminum foil to the windows. I leave a bit of the window un-foiled so you can still see out of it. This also helps to keep the sun from heating up the room.
 
 ## Items
 * <a href="https://amzn.to/3U5xRHI">Shockz headphones</a> - these 'bone conduction' headphones don't go over your ears, so you can hear the outside world as normal, but you can also hear the audio pretty well. I find most earbuds either extremely uncomfortable, or they just fall out of my ears. (The only pair of earbuds that don't hurt/fall out are these <a href="https://amzn.to/3T354lS">Sony wired earbuds</a> that I've bought ~15 pairs of over the last 10 years.)
 * <a href="https://amzn.to/3Tk9rsZ">Adjustable dumbbells</a> - There are cheaper versions out there, but I've used these for a few years and they work well and are easy to change settings on. Makes it much easier to have a compact home gym. I also recommend getting a cheap weight bench.
 * <a href="https://amzn.to/3DBbin9">A doorway pull-up bar</a> - To complete your home gym. I've had one in the doorway to my kitchen for a couple years and doing 1 pull-up every time I go through the doorway made me get way better at pull-ups very quickly.
+* <a href="https://amzn.to/3E4RdXQ">Adjustable Weight Vest</a> - If you get too good at doing regular pull-ups and want to continue the progressive overload.
 * <a href="https://amzn.to/3E2FiK7">Miracle Fruit Tablets</a> - Like hallucinogenics for your taste-buds. <a href="https://www.youtube.com/watch?v=8O8WG0d9jaY&ab_channel=WeirdExplorer">Here's</a> a history and video-review of the fruit by a youtuber that I like. Pretty interesting.
 * Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
 * <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
@@ -61,6 +63,8 @@ I think this is my best habit that most people don't have.
 * <a href="https://amzn.to/3WpN0oK">Outlet splitter</a> - Never run out of outlets ever again.
 * <a href="https://amzn.to/3DDEfz1">CeraVe Moisturizing Lotion for Itch Relief</a> - I normally hate the feeling of oily lotion and related things, but I occasionally get itchy dry skin on my elbow, and this is by far the best thing for it out of everything I tried, both for relief and for recovery.
 * <a href="https://amzn.to/3h91byq">Blistex lip ointment</a> - If you ever get chapped lips in the winter, this stuff is just way better than anything else I've used. I put on a little bit of this and chapstick on top of it and my lips get unchapped very quickly.
+* <a href="https://amzn.to/3Wwrq1X">Philips OneBlade Electric Razor</a> - I've tried using a fair few electric razors over the years, and they always hurt (like they're pulling your hair out) and/or don't shave closely enough. This one works differently than, and works much  better than any of the others. It never hurts me at all, and I don't even use shaving cream with it.
+* <a href="https://amzn.to/3T6BiMP">Gilchrist & Soames Soap</a> - I always just used generic Dove soap, then I stayed at a hotel for a few weeks where they used this soap, and most of the acne on my back/shoulders disappeared. I can't promise the same results for you of course, but at the very least it could make a nice gift for a family member or something.
 * <a href="https://amzn.to/3E2OjTv">Microwave Cover</a> - If you microwave things, and they splatter, you can use this to save yourself some cleaning.
 * <a href="https://amzn.to/3U9jWQP">Shower Curtain Weights</a> - If your shower curtain gets sucked in and sticks to you when you shower (Bernoulli's principle!), you can get these weights to help.
 * <a href="https://amzn.to/3zLAHti">T-Shirts for Men</a> - I really like these tees. They're comfy, have a good fit/cut, are pretty cheap, and are plain in nice colors. (They also make <a href="https://amzn.to/3t6uNPv">shirts for women,</a> but I can't personally vouch for their quality.)
@@ -78,6 +82,11 @@ I think this is my best habit that most people don't have.
 * <a href="https://amzn.to/3G3sO6D">Ice Cream Scoop</a> - Instead of bending your spoons and hurting your palm, this pointy ice-cream scoop works well.
 * <a href="https://amzn.to/3E4prLg">Groove Belt</a> - A stretchy stylish(?) belt that's very adjustable and made from nylon and aluminum.
 * <a href="https://amzn.to/3T93ZJ0">JBL Flip Speaker</a> - Surprisingly loud waterproof speaker. Great for listening to things in the shower, outside, for a party, etc.
+* <a href="https://amzn.to/3zQ3xZt">Hagoromo (blackboard) Chalk</a> - This is widely considered to be uniquely the best chalk. Used to be harder to get ahold of it. It gives off very little dust compared to other chalk, doesn't snap in your hands as easily, makes less terrible noise, and feels nice to write with on a black board. Maybe a good gift for your professor/grad-student friends. <a href="https://www.youtube.com/watch?v=PhNUjg9X4g8&ab_channel=GreatBigStory">Here's a brief YouTube video</a> on it. 
+* <a href="https://amzn.to/3fDDttC">La Sportiva Tarantulace Climbing Shoes</a> - These are the rock climbing shoes that I use. They're relatively comfortable (not painfully 'aggressive' like some other climbing shoes), not super expensive, and function well. I haven't tried lots of different climbing shoes, but these are recommended all over the place as a good pair to get.
+* Mini-fridge - If you spend a lot of timme somewhere in your apartment/house, consider getting a mini-fridge for that area. I have one next to my desk and it's very convenient.
+* Food Scissors - I have a dedicated pair of scissors for cutting food. Sometimes scissors are just way better for the task than a knife.
+
 
 ## YouTube Channels/Videos
 If you just want the videos, <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">here's a youTube playlist</a> I made that's (probably mostly) synced with the below recs list. <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjxOqsXi68qX_QeFJgPmYA-z">Here's</a> a playlist with videos I might add to the original list, but haven't yet added.
@@ -160,7 +169,6 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * 30 Rock - A lighthearted sitcom by Tina Fey and Donald Glover.
 * Ted Lasso - My favorite currently-running sitcom. Jason Sudeikis is well-revered American football coach who's hired to be manager of a British football (soccer) team.
 * Schitt's Creek - lighthearted sitcom/drama. I didn't love this show as much as some people, but for people who are big into sitcoms like modern family, friends, and the like; this is one of the better recent ones IMO.
-
 * How To with John Wilson - Executive Produced by Nathan Fielder, similar-ish in style to the other two shows.
 
 ### Drama
@@ -192,7 +200,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 
 Sometimes grouped roughly by genre, but only kind of.
 * The Office (US/UK), Parks and Recreation, The Good Place, Silicon Valley, The IT Crowd, Sneaky Pete, How I Met Your Mother
-* The Boys, The Handmaid's tale, The Walking Dead (first few seasons), The End of the F\*\*\*ing World, American Horror Story (seasons 1-3)
+* The Boys, The Handmaid's tale, The Walking Dead (first few seasons), The End of the F\*\*\*ing World, American Horror Story (these are standalone seasons; I'd recommend seasons 1&3)
 * Doctor Who, Sherlock, Firefly
 * Rick and Morty
 * Dahmer
@@ -210,10 +218,14 @@ Sometimes grouped roughly by genre, but only kind of.
 * I'm a longtime fan of Streetlight Manifesto, and spin-offs Toh Kay and BOTAR. but have a lot of variety in what I listen to.
 
 ## Books etc.
+See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal library</a> which contains a longer list of books and textbooks that I'm working on.
+### Fiction
 * The Name of the Wind by Patrick Rothfuss - If you enjoy fantasy, I'd give it a read
 * <a href = "https://unsongbook.com/">Unsong</a> by Scott Alexander - A quirky sci-fi novel with a soft-spot for wordplay. 
 * <a href="http://www.hpmor.com/chapter/1">HPMOR</a> - Some people don't care for it, some people think it's the best thing they've ever read. If you identified the most with Hermione in Harry Potter, and can tolerate occasional severe cringe, give it a try.
-* <a href="https://www.fromaitozombies.eu/Rationality_From_AI_to_Zombies.pdf">Rationality: From AI to Zombies</a> - It has its flaws, but this is the most comprehensive guide to critical thinking that I've encountered
+  
+### Nonfiction/Textbooks
+* <a href="https://www.fromaitozombies.eu/Rationality_From_AI_to_Zombies.pdf">Rationality: From AI to Zombies</a> - It has its flaws, but this is the most comprehensive guide to critical thinking that I've encountered. Also known as 'the sequences.'
 
 ## Blogs/Posts
 * Scott Alexander's writings - Slatestarcodex: <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Meditations on Moloch</a>, <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">The Toxoplasma of Rage</a>; Astralcodexten:- <a href="https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future">Book Review: What we owe the Future</a>;  and other writings: <a href="https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes">Schelling fences on slippery slopes</a>, <a href="https://www.lesswrong.com/posts/gFMH3Cqw4XxwL69iy/eight-short-studies-on-excuses">Eight Short Studies On Excuses</a>
@@ -243,6 +255,7 @@ Sometimes grouped roughly by genre, but only kind of.
 * <a href="https://skribbl.io/">skribbl.io</a> - Basically online (ffa) pictionary
 
 ### Board/Card Games
+* Codenames - A team-based word-hinting game. There's essentially a list of words, some of them are your team's, some are the other team's, and some are neutral. A single person on each team is the only one who knows which team has which words; these two people take turns giving one-word clues to the rest of their team, who then try to guess which words are theirs. Can be easily modified to be a 2-person cooperative game.
 * <a href="https://www.nateliason.com/blog/liars-poker">Liars' Poker</a> - A card game that doesn't have betting rounds. I normally play the game starting with only 1 card, I don't use rule 5 in his list, and use more-correct probabilistic distribution of hands (by eliminating flushes with greater than 5 cards, the rest is ltr). Some people prefer to start with 5-7 cards and count down to 0, but I like the rebalancing-nature of the first version.
 * Magic Maze - A fun cooperative board game; decent to play with friends who don't often play board games.
 * Hanabi - A cooperative card game that I think is really fun. Think a cross between bridge and <a href="https://www.popularmechanics.com/science/math/a26557/riddle-of-the-week-27-blue-eyed-islanders/">the blue-eyed islanders puzzle</a>. <a href="https://hanabi.github.io/">Here's</a> a place to learn some conventions, although many of them can be deduced if you think really hard. You can buy cards or <a href="https://hanab.live/">play online</a>.
@@ -272,7 +285,8 @@ Sometimes grouped roughly by genre, but only kind of.
 * AZ Screen Recorder - I find this app randomly useful sometimes for when I want to do things like send how to do something on a phone to someone, or share my ability at a dumb app-game with a friend.
 * B-Unit - If you work in finance and use Bloomberg, use this app to deprecate the stupid low-quality thumb scanner thingy
 * ZocDoc - If you're young, moved to a new city, and don't know how to find doctors or make appointments, use this app to Become A Real Adult<sup>TM</sup>
-* Strava - For tracking jogging/movement-related exercise\
+* Strava - For tracking jogging/movement-related exercise
+* Autohotkey - For windows; lets you program keyboard shortcuts to do things on your computer with buttom combinations. 
 
 ## Restaurants
 <!-- link the locations or websites -->
@@ -280,6 +294,7 @@ Sometimes grouped roughly by genre, but only kind of.
 * Buddha Bodai in Chinatown
 * Millburn Standard in Short Hills, NJ
 * Roka Akor in Chicago, IL
+* Pick A Bagel - Downtown New York
  
 ## Miscellaneous
 * Escape Rooms - Sometimes I think: "What's a good random thing to do today, where I have nothing planned but people who I should _do a thing_ with?" A couple times when I've had this thought, we've done an escape room, and it's never felt like a mistake. 
