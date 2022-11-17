@@ -11,6 +11,8 @@ redirect_from:
 <a href="https://youtube.com/playlist?list=PLQB1S_bZYqjzyry9MGHrEFXUCUjddg33R">Here's a YouTube playlist</a> containing a couple videos from some of of my favorite channels (described below). 
 There's also <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">this Spotify playlist</a> with a somewhat-curated variety of music/artists I like.
 
+Full disclosure - while making this page, instead of thinking "how can I make this as useful as I can to other people?" I was thinking more along the lines of "how could I make this page as useful as possible to my ~5-10 year ago self?" Your mileage may vary.
+
 Please send me recommendations of your own!
 {% include toc %}
 
@@ -49,7 +51,7 @@ I think this is my best habit that most people don't have.
 * <a href="https://amzn.to/3E4RdXQ">Adjustable Weight Vest</a> - If you get too good at doing regular pull-ups and want to continue the progressive overload.
 * <a href="https://amzn.to/3E2FiK7">Miracle Fruit Tablets</a> - Like hallucinogenics for your taste-buds. <a href="https://www.youtube.com/watch?v=8O8WG0d9jaY&ab_channel=WeirdExplorer">Here's</a> a history and video-review of the fruit by a youtuber that I like. Pretty interesting.
 * Humidifier - If you live somewhere dry. I grew up in Florida and never had humidity issues, but since moving to the northeast using one of these has saved me. I also use <a href="https://amzn.to/3fBl6ph">these</a> to help keep it from growing mold. They don't work perfectly, but reduce the cleaning frequency by a lot.
-* <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway.
+* <a href="https://amzn.to/3DZTiEx">Blender</a> with shaker-cup attachments for protein shakes/smoothies - I use my blender very regularly to make protein shakes, and it's a huge life improvement to have the cup attachments - saves a ton of cleaning time and I almost always only want that amount anyway. <a href="https://dmavrides.github.io/_pages/smoothie_recipe/">Some brief context + my favorite smoothie recipe.</a>
 * <a href="https://amzn.to/3zIcHae">Fitbit</a> - I started using one of these a year ago and think it's worth having. It saves me a few minutes of time every day when checking the time/weather. It has a vibrating alarm you can use if you don't want to wake up a significant other or roommate. It tracks your heart rate/exercise and links with apps like Strava. It tracks how much you sleep and how restful your sleep is.
 * <a href="https://amzn.to/3SYSMLj">Tungsten cube</a> - This (expensive) 1.5 inch cube is almost certainly heavier per unit volume than anything else of its size that you've held. Holding it is just surprising, and makes you contemplate how gravity is really a force. It surprises others whenever I give it to them to hold, and that gives me joy. Made popular by <a href="https://thume.ca/2019/03/03/my-tungsten-cube/">Tristan Hume's blog post</a>, which gives a longer description and his justification for the purchase.
 * <a href="https://amzn.to/3U8K4eS">Zojirushi Rice Cooker</a> - When I moved to NYC and went to purchase things to fill my apartment, I almost bought a cheap Oster rice cooker like the one my family's always used. I'd heard that Zojirushi Rice Cookers are worth it despite being expensive, so I treated myself and spent the extra money. It's always made me amazing rice, and plays a happy little tune that makes me smile whenever it's done cooking. :)
@@ -170,6 +172,7 @@ I often watch TV shows (or listen to them using Netflix audio descriptions) whil
 * Brooklyn Nine-Nine - If you like sitcoms, this should be at the top of your list.
 * Nathan for you/The Rehearsal - Two of my favorite shows on this page. In the former, Nathan Fielder gives 'unorthodox' marketing ideas to small businesses. The latter is a ride of it's own.
 * Bojack Horseman - Dark, depressing, witty satire. 
+* Taskmaster - The funniest reality tv series (all it's all officially on YouTube). British reality show where comedians compete at silly tasks. Way funnier than it sounds. 
 * Crazy Ex-Girlfriend - A lighthearted musical romcom/satire. The musical element to the show works surprisingly well.
 * 30 Rock - A lighthearted sitcom by Tina Fey and Donald Glover.
 * Ted Lasso - My favorite currently-running sitcom. Jason Sudeikis is well-revered American football coach who's hired to be manager of a British football (soccer) team.
@@ -214,7 +217,6 @@ Sometimes grouped roughly by genre, but only kind of.
 * Without a Recipe Roadtrip
 * The Strongest Man in History
 * Mythbusters
-* Taskmaster
 
 ## Music
 * <a href="https://open.spotify.com/playlist/2DLYSie9MNjxxqJYwub1ct">This</a> playlist for some selected variety in my listening.
@@ -238,12 +240,16 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 * The sideways view (Paul Christiano) - <a href="https://sideways-view.com/2017/02/19/the-monkey-and-the-machine-a-dual-process-theory/">The monkey and the machine</a>, <a href="https://sideways-view.com/2016/11/26/if-you-cant-lie-to-others-you-must-lie-to-yourself/">If we can't lie to others, we will lie to ourselves</a>
 * Terry Tao's blog - <a href="https://terrytao.wordpress.com/about/anonymity-and-the-internet/">Anonymity and the internet</a>
 * overcomingbias - Currently Robin Hanson's personal blog, although it's gone through a few iterations. <a href="https://www.overcomingbias.com/archives">here</a> are some popular posts. <a href="https://www.youtube.com/watch?v=l3whaviTqqg&ab_channel=RationalAnimations">Here's</a> a video-explanation of his paper on 'grabby' aliens. <a href="https://www.youtube.com/watch?v=LceY7nhi6j4&ab_channel=RationalAnimations">Part 2.</a>
-* Nate Soares' writings - <a href="https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF">Replacing Guilt</a>
+* Nate Soares' writings - I'd start with <a href="https://www.lesswrong.com/posts/ur9TCRnHJighHmLCW/on-caring">On Caring</a> - an essay about caring about others + scope-insensitivity, and then <a href="https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF">Replacing Guilt</a> - what to do if/when you care, but that's making you unhappy instead of being useful
 * Nick Bostrom's writings - <a href="https://nickbostrom.com/fable/dragon">The Fable of the Dragon-Tyrant</a>
 
 ### Comics
 * XKCD - Oft-vaguely-science-related comics. Also neat observations about the world, for example <a href="https://xkcd.com/1053/">"The Lucky 10000"</a>.
 * The Oatmeal - Okay fine, I really just like <a href="https://theoatmeal.com/comics/running">this mini-series on running.</a>
+  
+### Newsletters
+* New York Times Morning Summary - A short, free email every day with updates on important world and US news from the New York Times. Reading this is the first thing I do every morning when I wake up and it keeps me in the loop. <a href="https://www.nytimes.com/newsletters/morning-briefing">Sign up here.</a>
+* Matt Levine's Money Stuff - "A daily take on Wall Street, finance, companies and other stuff." Basically required reading if you work in finance and pretty entertaining. I get these emailed to me and read all the ones that sound interesting. <a href="https://www.bloomberg.com/account/newsletters/money-stuff>Sign up here.</a>
 
 ## Games
 ### Video Games
@@ -251,7 +257,7 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 * BeatSaber - Guitar Hero but in VR. <a href="https://dmavrides.github.io/_pages/beatsaber_recs/">My beatsaber recs/bookmarks</a>.
 * Celeste - Cute platformer with good music, calming & optimistic vibes.
 * Storybook Brawl - Auto battler that I personally enjoy
-* Lichess.org over Chess.com
+* Lichess.org over chess.com for chess 
 
 ### Social Games
 * <a href="http://www.persondothing.com/howto.html">Person do thing</a> - More-constrained taboo. Playing this game feels similar to being in an intro language class where your professor has banned English, but fun.
@@ -259,6 +265,7 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 * <a href="https://www.brokenpicturephone.com/">Broken Picturephone</a> - This game is fun to play in person with real paper/pens, or online here over discord or zoom or wherever.
 * <a href="https://drawbattle.io/">drawbattle.io</a> - Basically online (team) pictionary
 * <a href="https://skribbl.io/">skribbl.io</a> - Basically online (ffa) pictionary
+* <a href="https://downforacross.com/"</a> - Good online interface for collaborative remote crossword-solving
 
 ### Board/Card Games
 * Codenames - A team-based word-hinting game. There's essentially a list of words, some of them are your team's, some are the other team's, and some are neutral. A single person on each team is the only one who knows which team has which words; these two people take turns giving one-word clues to the rest of their team, who then try to guess which words are theirs. Can be easily modified to be a 2-person cooperative game.
@@ -299,7 +306,7 @@ See also <a href="https://dmavrides.github.io/_pages/reading_list/">my personal 
 * Buddha Bodai in Chinatown
 * Millburn Standard in Short Hills, NJ
 * Roka Akor in Chicago, IL
-* Pick A Bagel - Downtown New York
+* Pick A Bagel in Downtown New York
  
 ## Miscellaneous
 * Escape Rooms - Sometimes I think: "What's a good random thing to do today, where I have nothing planned but people who I should _do a thing_ with?" A couple times when I've had this thought, we've done an escape room, and it's never felt like a mistake. 
