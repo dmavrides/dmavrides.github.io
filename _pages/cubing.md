@@ -53,8 +53,8 @@ I use <a href="https://cubingcheatsheet.com/algs3x_2loll.html">these</a> 2L OLL 
 I also solve one-handed lefty and use the following alternative PLL algs: 
   * a: R2 U' R' U' R U R U R U' R
   * b: z U2 R U R U' R' U' R' U' R U' z'
-  * z: y (R' U' R U) (R U R U') (R' U R U) R2 U' R' [U2]
-  * h: R2 U2' R U2' R2 U2' R U2' R2
+  * z: y (R' U' R U') (R U R U') (R' U R U) R2 U' R' [U2]
+  * h: R2 U2' R U2' R2 U2' R2 U2' R U2' R2
 
 ## Advanced
 Here are some more advanced techniques:
