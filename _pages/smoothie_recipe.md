@@ -12,7 +12,8 @@ redirect_from:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>
-First, a story:
+## Context
+First, a short story:
 
 I dislike many more fruits than most people, and probably hadn't had a smoothie since I was a young child until a friend 
 who is an even pickier eater than me said he started having them daily and it's been life changing. He said it's had the most
@@ -48,11 +49,8 @@ icy. I often blend for ~5-10s, then shake the cup a few times, then blend for an
 
 
 
-[^1]: No I'm not super anal about putting in the same number every time or anything like that, this is just my best guess
-at the average.
+[^1]: No I'm not super anal about putting in the same number every time or anything like that, this is just my best guess at the average.
 
-[^2]: This is an amount that you both can't taste and also that probably has no real health impact. But if the alterative
-is none, then I figure I might as well get whatever placebo effects I can out of it/desensitize myself to the idea of 
-eating spinach at the very least.
+[^2]: This is an amount that you both can't taste and also that probably has no real health impact. But if the alterative is none, then I figure I might as well get whatever placebo effects I can out of it/desensitize myself to the idea of eating spinach at the very least.
 
 
