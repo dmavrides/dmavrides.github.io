@@ -50,6 +50,7 @@ icy. I often blend for ~5-10s, then shake the cup a few times, then blend for an
 
 [^1]: No I'm not super anal about putting in the same number every time or anything like that, this is just my best guess
 at the average.
+
 [^2]: This is an amount that you both can't taste and also that probably has no real health impact. But if the alterative
 is none, then I figure I might as well get whatever placebo effects I can out of it/desensitize myself to the idea of 
 eating spinach at the very least.
