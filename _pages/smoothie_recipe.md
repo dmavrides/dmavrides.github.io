@@ -15,11 +15,8 @@ redirect_from:
 ## Context
 First, a short story:
 
-I dislike many more fruits than most people, and probably hadn't had a smoothie since I was a young child until a friend 
-who is an even pickier eater than me said he started having them daily and it's been life changing. He said it's had the most
-positive impact on his life per emount of effort of anything he's ever done. (They actually taste good, they're actually
-healthy so you feel good about yourself for having them, and they help you feel physically better - or at least act as a 
-pretty believable placebo.)
+I dislike many more fruits than most people. I probably hadn't had a smoothie since I was a young child until a friend 
+- who is an even pickier eater than me - said he had started having them daily and it was life changing. He said it's had the most positive impact on his life per emount of effort of anything he's ever done. (They actually taste good, they're actually healthy so you feel good about yourself for having them, and they help you feel physically better - or at least act as a pretty believable placebo.)
 
 After hearing that, I was pretty convinced that it would be stupid of me to not at least try making some smoothies to see if
 I happened to have the same extremely positive experience. So of course I bought all the ingredients to make a smoothie, and
