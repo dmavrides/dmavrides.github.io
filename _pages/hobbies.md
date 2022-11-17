@@ -12,7 +12,7 @@ redirect_from:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>
-Here is a list of some of my hobbies and skills, along with my rough skill level/experience.
+Here is a list of some of my hobbies and skills, along with my rough skill level/experience.[^1]
 
 **Sports**
 * Bouldering - V4 climber. Started January 2022 but broke my ankle in March. Back into it!
@@ -26,7 +26,7 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * Storybook Brawl - Mythic/4600 peak
 * Poker - Won university/internship poker tournaments etc., have some rough ranges, but I'm no pro.
 * Tetris - 40L in 80s on <a href="https://jstris.jezevec10.com/">jstris</a>, could briefly ST-stack in tetris battle
-* dominion - $$\mu=.5$$ on <a href="https://dominion.games/">dominion.games</a>
+* Dominion - $$\mu=.5$$ on <a href="https://dominion.games/">dominion.games</a>
 * Banangrams/Anagrams (mongoose) - I'm pretty solid at these games
 * I find many other card/board games fun - Codenames, Set, <a href="https://www.mathcamp.org/2015/proset/">Pro(jective) Set</a>, Splendor, ...
 
@@ -38,3 +38,5 @@ Here is a list of some of my hobbies and skills, along with my rough skill level
 * crosswords - I do NYT crosswords sometimes
 * <a href="https://www.youtube.com/watch?v=hAyZ9K2EBF0&ab_channel=CrackingTheCryptic">cryptic sudokus</a> - If you like puzzly things, I highly recommend. You can click a link in the description of videos on this channel to solve them yourself.
 * Piano/Violin - I played both of these for years but very little since moving to NYC.
+
+[^1]: Here I use the standard of 'my performance under optimal conditions' i.e. for bouldering I've climbed a few V4s, for Rubik's cubes if I warm up/review algs then do a few average of 5s I can probably get sub-30 on one of them, etc.
